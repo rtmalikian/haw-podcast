@@ -18,7 +18,7 @@ For comments, questions, or concerns, email: rtmalikian@gmail.com
 New episodes every day. Subscribe wherever you listen to podcasts.</description>
     <language>en</language>
     <copyright>© 2026 Raphael T. Malikian</copyright>
-    <lastBuildDate>Sat, 13 Jun 2026 13:13:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 16:05:05 GMT</lastBuildDate>
     <generator>HAW Podcast Builder v1.0</generator>
     <atom:link href="https://rtmalikian.github.io/haw-podcast/daily/feed.xml" rel="self" type="application/rss+xml"/>
     <ns0:author>Raphael T. Malikian</ns0:author>
@@ -51,7 +51,7 @@ New episodes every day. Subscribe wherever you listen to podcasts.</ns0:summary>
       <title>AI Reads Bacterial Fingerprints to Predict Antibiotic Resistance | Healthcare AI Daily</title>
       <guid isPermaLink="false">urn:episode:daily:had_2026-06-14-antibiotic-resistance_healthcare_ai_daily_2026-06-14_antibiotic_resistance_ai</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-14-antibiotic-resistance_healthcare_ai_daily_2026-06-14_antibiotic_resistance_ai.mp3" length="2540686" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Jun 2026 13:13:44 GMT</pubDate>
+      <pubDate>Sat, 13 Jun 2026 16:05:05 GMT</pubDate>
       <description>Right now, doctors wait one to three days to learn which antibiotics will work for a serious infection. A new deep learning system called ANTIBIOTIC reads mass spectrometry data hospitals already collect and predicts resistance in minutes.
 
 Antimicrobial resistance kills over a million people a year. The core problem is speed - conventional testing takes one to three days. During that window, doctors prescribe broad-spectrum antibiotics, driving more resistance.
@@ -112,7 +112,7 @@ Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this 
       <title>When AI Makes Things Up in Medicine: What Actually Works | Healthcare AI Daily</title>
       <guid isPermaLink="false">urn:episode:daily:had_2026-06-13-ai-hallucination_healthcare_ai_daily_2026-06-13_ai_hallucination_mitigation</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-13-ai-hallucination_healthcare_ai_daily_2026-06-13_ai_hallucination_mitigation.mp3" length="2710573" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Jun 2026 13:13:44 GMT</pubDate>
+      <pubDate>Sat, 13 Jun 2026 16:05:05 GMT</pubDate>
       <description>What happens when healthcare AI hallucinates? A new systematic review of 44 studies identifies 7 strategies that actually reduce AI errors in medicine.
 
 Sanjay Basu and Benjamin Huynh from UC San Francisco and Johns Hopkins reviewed every major approach - from retrieval-augmented generation to human-in-the-loop oversight - and found that combining strategies consistently beats any single method.
@@ -171,7 +171,7 @@ Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this 
       <title>Your Home Could Detect a Stroke Before It Happens | Healthcare AI Daily</title>
       <guid isPermaLink="false">urn:episode:daily:had_2026-06-12-cvd-home_healthcare_ai_daily_2026-06-12_cvd_home_monitoring</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-12-cvd-home_healthcare_ai_daily_2026-06-12_cvd_home_monitoring.mp3" length="3551283" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Jun 2026 13:13:44 GMT</pubDate>
+      <pubDate>Sat, 13 Jun 2026 16:05:05 GMT</pubDate>
       <description>Can contactless sensors in your home detect cerebrovascular disease before a stroke happens? A new study from South Korea placed IoT sensors in the homes of 1,224 older adults and trained an AI to watch for subtle changes in movement, sleep, and activity patterns.
 
 The AI identified people in the pre-stroke phase with 85% precision, and predicted who was within four weeks of diagnosis with 95% sensitivity. Evening activity patterns were the strongest signal.
@@ -242,7 +242,7 @@ Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this 
       <title>Healthcare AI Daily: GPT-5, Grok 4, DeepSeek R1 on Blood Count Reports</title>
       <guid isPermaLink="false">urn:episode:daily:had_2026-06-11-llm-cbc_healthcare_ai_daily_2026-06-11_llm_cbc_hematology</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-11-llm-cbc_healthcare_ai_daily_2026-06-11_llm_cbc_hematology.mp3" length="2777638" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Jun 2026 13:13:44 GMT</pubDate>
+      <pubDate>Sat, 13 Jun 2026 16:05:05 GMT</pubDate>
       <description>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
 GitHub: https://github.com/rtmalikian
 LinkedIn: http://www.linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a
@@ -309,7 +309,7 @@ Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this 
       <title>AI Mobile App Catches Skin Cancers in Rural Brazil | Healthcare AI Daily</title>
       <guid isPermaLink="false">urn:episode:daily:had_2026-06-10-skin-cancer_healthcare_ai_daily_2026-06-10_skin_cancer_triage</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-10-skin-cancer_healthcare_ai_daily_2026-06-10_skin_cancer_triage.mp3" length="2396470" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Jun 2026 13:13:44 GMT</pubDate>
+      <pubDate>Sat, 13 Jun 2026 16:05:05 GMT</pubDate>
       <description>In rural Brazil, there’s one dermatologist for every 17,000 people. A new AI app that works completely offline just helped health workers catch skin cancers far more accurately.
 
 Published in npj Digital Medicine (Nature), Pacheco et al. validated the tool with 131 healthcare professionals across 9 cities. Sensitivity jumped from 64% to 80% with AI assistance. In rural areas, unnecessary specialist referrals dropped 30% while cancer surgeries stayed the same.
@@ -370,7 +370,7 @@ Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this 
       <title>Can AI Read Your ECG? Testing Vision-Language Models on Real ECGs | Healthcare AI Daily</title>
       <guid isPermaLink="false">urn:episode:daily:had_2026-06-09-ecg-vlm_healthcare_ai_daily_2026-06-09_ecg_vlm_interpretation</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-09-ecg-vlm_healthcare_ai_daily_2026-06-09_ecg_vlm_interpretation.mp3" length="3753182" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Jun 2026 13:13:44 GMT</pubDate>
+      <pubDate>Sat, 13 Jun 2026 16:05:05 GMT</pubDate>
       <description>Can ChatGPT, Gemini, or Claude actually read an electrocardiogram? A new peer-reviewed study tested six major vision-language models on 70 real clinical ECG images.
 
 The results are a wake-up call for anyone assuming AI can replace ECG interpretation.
@@ -512,7 +512,7 @@ Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this 
       <title>Healthcare AI Daily: AI Chatbot Taught Patients About Bone Health in 5 Minutes</title>
       <guid isPermaLink="false">urn:episode:daily:had_2026-06-05-osteoporosis-chatbot_healthcare_ai_daily_2026-06-05_osteoporosis_chatbot</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-05-osteoporosis-chatbot_healthcare_ai_daily_2026-06-05_osteoporosis_chatbot.mp3" length="6453403" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Jun 2026 13:13:44 GMT</pubDate>
+      <pubDate>Sat, 13 Jun 2026 16:05:05 GMT</pubDate>
       <description>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
 GitHub: https://github.com/rtmalikian
 LinkedIn: http://www.linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a
@@ -579,7 +579,7 @@ Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this 
       <title>Healthcare AI Daily: Privacy-Preserving Local AI Matches Cloud Tools for Self-Harm Detection in NHS Records</title>
       <guid isPermaLink="false">urn:episode:daily:had_2026-06-04-self-harm_healthcare_ai_daily_2026-06-04_self_harm_local_llm</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-04-self-harm_healthcare_ai_daily_2026-06-04_self_harm_local_llm.mp3" length="2963878" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Jun 2026 13:13:44 GMT</pubDate>
+      <pubDate>Sat, 13 Jun 2026 16:05:05 GMT</pubDate>
       <description>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
 GitHub: https://github.com/rtmalikian
 LinkedIn: http://www.linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a
@@ -654,7 +654,7 @@ Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this 
       <title>Healthcare AI Daily: Radiologists Do Not Fully Trust AI for Intracranial Hemorrhage Detection</title>
       <guid isPermaLink="false">urn:episode:daily:had_2026-06-03-radiologist-perceptions_healthcare_ai_daily_2026-06-03_radiologist_perceptions</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-03-radiologist-perceptions_healthcare_ai_daily_2026-06-03_radiologist_perceptions.mp3" length="4720561" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Jun 2026 13:13:44 GMT</pubDate>
+      <pubDate>Sat, 13 Jun 2026 16:05:05 GMT</pubDate>
       <description>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
 GitHub: https://github.com/rtmalikian
 LinkedIn: http://www.linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a
@@ -721,7 +721,7 @@ Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this 
       <title>Healthcare AI Daily: Reasoning LLMs Can Still Stereotype Disease Cases</title>
       <guid isPermaLink="false">urn:episode:daily:had_2026-06-02-llm-stereotypes_healthcare_ai_daily_2026-06-02_llm_stereotypes</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-02-llm-stereotypes_healthcare_ai_daily_2026-06-02_llm_stereotypes.mp3" length="2598969" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Jun 2026 13:13:44 GMT</pubDate>
+      <pubDate>Sat, 13 Jun 2026 16:05:05 GMT</pubDate>
       <description>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
 GitHub: https://github.com/rtmalikian
 LinkedIn: http://www.linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a
@@ -788,7 +788,7 @@ Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this 
       <title>Healthcare AI Daily: Dataset Bias Audits for Medical AI</title>
       <guid isPermaLink="false">urn:episode:daily:had_2026-06-01-dataset-bias_healthcare_ai_daily_2026-06-01_dataset_bias_audit</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-01-dataset-bias_healthcare_ai_daily_2026-06-01_dataset_bias_audit.mp3" length="2430931" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Jun 2026 13:13:44 GMT</pubDate>
+      <pubDate>Sat, 13 Jun 2026 16:05:05 GMT</pubDate>
       <description>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
 GitHub: https://github.com/rtmalikian
 LinkedIn: http://www.linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a

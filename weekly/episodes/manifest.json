@@ -1,6 +1,27 @@
 [
   {
-    "episode_num": 1,
+    "date": "2026-05-23",
+    "slug": "healthcare_ai_weekly_2026-05-23",
+    "title": "Healthcare AI Weekly: LLM Diagnostic Reasoning + Nurse Concern Signals | Healthcare AI Weekly",
+    "description": "Welcome to Healthcare AI Weekly with Raphael Malikian. This episode breaks down two recent peer-reviewed healthcare AI papers: one major paper on large language models for diagnostic reasoning in epilepsy, and one overlooked but important paper on nurse concern signals for inpatient deterioration.\n\nPapers covered:\n1. \"Evaluating large language models for diagnostic reasoning from unstructured clinical narratives in epilepsy\" - Dani et al.\n2. \"Enhancing prediction of inpatient deterioration by combining nursing concern signals with machine learning\"\n\nBoth papers explore how AI can augment clinical judgment - one at the diagnostic reasoning level, the other at the bedside monitoring level.\n\nMEDICAL DISCLAIMER: This podcast is for educational and informational purposes only. It is not intended to diagnose, treat, cure, or prevent any medical condition. Nothing discussed in this episode constitutes medical advice. If you have a medical concern or health problem, you must seek attention from a licensed medical professional immediately.\n\nCreated by Raphael T. Malikian (rtmalikian@gmail.com).\nIn true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.\n\n#HealthcareAI #ClinicalAI #MedicalAI #AIinMedicine #DigitalHealth #MachineLearning #HealthTech #AIResearch #ClinicalDecisionSupport #HealthcareInnovation",
+    "audio_file": "/Users/raphael/Documents/haw_podcast/weekly/audio/haw_2026-05-23.mp3",
+    "duration_seconds": 475.39,
+    "file_size_bytes": 11411206,
+    "youtube_tags": [
+      "healthcare AI",
+      "medical AI",
+      "LLM healthcare",
+      "large language models",
+      "clinical decision support",
+      "nursing informatics",
+      "patient deterioration",
+      "epilepsy AI",
+      "Healthcare AI Weekly"
+    ],
+    "episode_num": 1
+  },
+  {
+    "episode_num": 2,
     "date": "2026-05-29-production",
     "slug": "healthcare_ai_weekly_2026-05-29_production",
     "title": "Healthcare AI Weekly: AI Triage Meets Governance | Healthcare AI Weekly",
@@ -22,5 +43,44 @@
       "machine learning healthcare"
     ],
     "original_video": "/Users/raphael/Documents/healthcare_ai_weekly_2026-05-29_production/video/full/healthcare_ai_weekly_2026-05-29_full_4k_review.mp4"
+  },
+  {
+    "date": "2026-06-04",
+    "slug": "healthcare_ai_weekly_2026-06-04",
+    "title": "Healthcare AI Weekly: Blood Test for Kidney Cancer + AI Detects Delirium | Healthcare AI Weekly",
+    "description": "Healthcare AI Weekly - your bridge between clinical medicine and AI research.\n\nThis week we cover two papers on AI detecting what current methods miss:\n\nPaper 1 - RCAID: Renal Cell Carcinoma AI Detector\nHuang C, Wang G, Yuan Y, et al. European Urology (2026)\nA plasma metabolomic model using 7 blood metabolites detected kidney cancer with AUROCs of 0.91-0.99 across 6 validation cohorts.\n\nPaper 2 - Video-based Detection of Delirium in Hospitalized Adults\nMendu M, Tesh RA, Pellerin K, et al. PLOS Digital Health (2026)\nA video-based AI system using deep learning pose estimation detected delirium with AUC 0.79.\n\nMEDICAL DISCLAIMER: This podcast is for educational and informational purposes only. It is not intended to diagnose, treat, cure, or prevent any medical condition. Nothing discussed in this episode constitutes medical advice. If you have a medical concern or health problem, you must seek attention from a licensed medical professional immediately.\n\nCreated by Raphael T. Malikian (rtmalikian@gmail.com).\nIn true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.\n\n#HealthcareAI #ClinicalAI #MedicalAI #AIinMedicine #DigitalHealth #MachineLearning #HealthTech #AIResearch #ClinicalDecisionSupport #HealthcareInnovation",
+    "audio_file": "/Users/raphael/Documents/haw_podcast/weekly/audio/haw_2026-06-04.mp3",
+    "duration_seconds": 838.47,
+    "file_size_bytes": 20125079,
+    "youtube_tags": [
+      "healthcare AI",
+      "kidney cancer",
+      "renal cell carcinoma",
+      "metabolomics",
+      "delirium detection",
+      "video-based AI",
+      "deep learning",
+      "Healthcare AI Weekly"
+    ],
+    "episode_num": 3
+  },
+  {
+    "date": "2026-06-11",
+    "slug": "healthcare_ai_weekly_2026-06-11",
+    "title": "Healthcare AI Weekly: Skin Cancer AI + Colonoscopy Deskilling | Healthcare AI Weekly",
+    "description": "Healthcare AI Weekly - your bridge between clinical medicine and AI research.\n\nThis week we examine two critical healthcare AI papers:\n\nPaper 1 - AI-powered skin cancer detection in clinical settings\nPaper 2 - The deskilling effect: how AI assistance in colonoscopy may reduce physician competency over time\n\nOne paper shows AI outperforming clinicians in detection. The other raises an uncomfortable question: what happens to human skill when we rely on AI too much?\n\nMEDICAL DISCLAIMER: This podcast is for educational and informational purposes only. It is not intended to diagnose, treat, cure, or prevent any medical condition. Nothing discussed in this episode constitutes medical advice. If you have a medical concern or health problem, you must seek attention from a licensed medical professional immediately.\n\nCreated by Raphael T. Malikian (rtmalikian@gmail.com).\nIn true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.\n\n#HealthcareAI #ClinicalAI #MedicalAI #AIinMedicine #DigitalHealth #MachineLearning #HealthTech #AIResearch #ClinicalDecisionSupport #HealthcareInnovation",
+    "audio_file": "/Users/raphael/Documents/haw_podcast/weekly/audio/haw_2026-06-11.mp3",
+    "duration_seconds": 421.47,
+    "file_size_bytes": 10117246,
+    "youtube_tags": [
+      "healthcare AI",
+      "skin cancer AI",
+      "colonoscopy",
+      "deskilling",
+      "clinical AI",
+      "dermatology AI",
+      "Healthcare AI Weekly"
+    ],
+    "episode_num": 4
   }
 ]

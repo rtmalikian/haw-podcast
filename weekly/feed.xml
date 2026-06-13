@@ -18,7 +18,7 @@ For comments, questions, or concerns, email: rtmalikian@gmail.com
 Published weekly. Subscribe wherever you listen to podcasts.</description>
     <language>en</language>
     <copyright>© 2026 Raphael T. Malikian</copyright>
-    <lastBuildDate>Sat, 13 Jun 2026 13:13:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 16:05:05 GMT</lastBuildDate>
     <generator>HAW Podcast Builder v1.0</generator>
     <atom:link href="https://rtmalikian.github.io/haw-podcast/weekly/feed.xml" rel="self" type="application/rss+xml"/>
     <ns0:author>Raphael T. Malikian</ns0:author>
@@ -48,10 +48,124 @@ Published weekly. Subscribe wherever you listen to podcasts.</ns0:summary>
     <ns1:locked>no</ns1:locked>
     <ns1:guid>urn:podcast:haw-weekly</ns1:guid>
     <item>
+      <title>Healthcare AI Weekly: Skin Cancer AI + Colonoscopy Deskilling | Healthcare AI Weekly</title>
+      <guid isPermaLink="false">urn:episode:weekly:haw_2026-06-11</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/weekly/audio/haw_2026-06-11.mp3" length="10117246" type="audio/mpeg"/>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Healthcare AI Weekly - your bridge between clinical medicine and AI research.
+
+This week we examine two critical healthcare AI papers:
+
+Paper 1 - AI-powered skin cancer detection in clinical settings
+Paper 2 - The deskilling effect: how AI assistance in colonoscopy may reduce physician competency over time
+
+One paper shows AI outperforming clinicians in detection. The other raises an uncomfortable question: what happens to human skill when we rely on AI too much?
+
+MEDICAL DISCLAIMER: This podcast is for educational and informational purposes only. It is not intended to diagnose, treat, cure, or prevent any medical condition. Nothing discussed in this episode constitutes medical advice. If you have a medical concern or health problem, you must seek attention from a licensed medical professional immediately.
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com).
+In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.
+
+#HealthcareAI #ClinicalAI #MedicalAI #AIinMedicine #DigitalHealth #MachineLearning #HealthTech #AIResearch #ClinicalDecisionSupport #HealthcareInnovation
+
+Watch this episode on YouTube: https://youtu.be/upmsyEQqiRU
+
+YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+      <link>https://youtu.be/upmsyEQqiRU</link>
+      <ns0:title>Healthcare AI Weekly: Skin Cancer AI + Colonoscopy Deskilling | Healthcare AI Weekly</ns0:title>
+      <ns0:summary>Healthcare AI Weekly - your bridge between clinical medicine and AI research.
+
+This week we examine two critical healthcare AI papers:
+
+Paper 1 - AI-powered skin cancer detection in clinical settings
+Paper 2 - The deskilling effect: how AI assistance in colonoscopy may reduce physician competency over time
+
+One paper shows AI outperforming clinicians in detection. The other raises an uncomfortable question: what happens to human skill when we rely on AI too much?
+
+MEDICAL DISCLAIMER: This podcast is for educational and informational purposes only. It is not intended to diagnose, treat, cure, or prevent any medical condition. Nothing discussed in this episode constitutes medical advice. If you have a medical concern or health problem, you must seek attention from a licensed medical professional immediately.
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com).
+In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.
+
+#HealthcareAI #ClinicalAI #MedicalAI #AIinMedicine #DigitalHealth #MachineLearning #HealthTech #AIResearch #ClinicalDecisionSupport #HealthcareInnovation
+
+Watch this episode on YouTube: https://youtu.be/upmsyEQqiRU
+
+YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>4</ns0:episode>
+      <ns0:duration>7:01</ns0:duration>
+    </item>
+    <item>
+      <title>Healthcare AI Weekly: Blood Test for Kidney Cancer + AI Detects Delirium | Healthcare AI Weekly</title>
+      <guid isPermaLink="false">urn:episode:weekly:haw_2026-06-04</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/weekly/audio/haw_2026-06-04.mp3" length="20125079" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Healthcare AI Weekly - your bridge between clinical medicine and AI research.
+
+This week we cover two papers on AI detecting what current methods miss:
+
+Paper 1 - RCAID: Renal Cell Carcinoma AI Detector
+Huang C, Wang G, Yuan Y, et al. European Urology (2026)
+A plasma metabolomic model using 7 blood metabolites detected kidney cancer with AUROCs of 0.91-0.99 across 6 validation cohorts.
+
+Paper 2 - Video-based Detection of Delirium in Hospitalized Adults
+Mendu M, Tesh RA, Pellerin K, et al. PLOS Digital Health (2026)
+A video-based AI system using deep learning pose estimation detected delirium with AUC 0.79.
+
+MEDICAL DISCLAIMER: This podcast is for educational and informational purposes only. It is not intended to diagnose, treat, cure, or prevent any medical condition. Nothing discussed in this episode constitutes medical advice. If you have a medical concern or health problem, you must seek attention from a licensed medical professional immediately.
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com).
+In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.
+
+#HealthcareAI #ClinicalAI #MedicalAI #AIinMedicine #DigitalHealth #MachineLearning #HealthTech #AIResearch #ClinicalDecisionSupport #HealthcareInnovation
+
+Watch this episode on YouTube: https://youtu.be/ApSNszq84oI
+
+YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+      <link>https://youtu.be/ApSNszq84oI</link>
+      <ns0:title>Healthcare AI Weekly: Blood Test for Kidney Cancer + AI Detects Delirium | Healthcare AI Weekly</ns0:title>
+      <ns0:summary>Healthcare AI Weekly - your bridge between clinical medicine and AI research.
+
+This week we cover two papers on AI detecting what current methods miss:
+
+Paper 1 - RCAID: Renal Cell Carcinoma AI Detector
+Huang C, Wang G, Yuan Y, et al. European Urology (2026)
+A plasma metabolomic model using 7 blood metabolites detected kidney cancer with AUROCs of 0.91-0.99 across 6 validation cohorts.
+
+Paper 2 - Video-based Detection of Delirium in Hospitalized Adults
+Mendu M, Tesh RA, Pellerin K, et al. PLOS Digital Health (2026)
+A video-based AI system using deep learning pose estimation detected delirium with AUC 0.79.
+
+MEDICAL DISCLAIMER: This podcast is for educational and informational purposes only. It is not intended to diagnose, treat, cure, or prevent any medical condition. Nothing discussed in this episode constitutes medical advice. If you have a medical concern or health problem, you must seek attention from a licensed medical professional immediately.
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com).
+In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.
+
+#HealthcareAI #ClinicalAI #MedicalAI #AIinMedicine #DigitalHealth #MachineLearning #HealthTech #AIResearch #ClinicalDecisionSupport #HealthcareInnovation
+
+Watch this episode on YouTube: https://youtu.be/ApSNszq84oI
+
+YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>3</ns0:episode>
+      <ns0:duration>13:58</ns0:duration>
+    </item>
+    <item>
       <title>Healthcare AI Weekly: AI Triage Meets Governance | Healthcare AI Weekly</title>
       <guid isPermaLink="false">urn:episode:weekly:haw_2026-05-29-production_healthcare_ai_weekly_2026-05-29_production</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/weekly/audio/haw_2026-05-29-production_healthcare_ai_weekly_2026-05-29_production.mp3" length="5961241" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Jun 2026 13:13:44 GMT</pubDate>
+      <pubDate>Sat, 13 Jun 2026 16:05:05 GMT</pubDate>
       <description>I’m Raphael Malikian, a healthcare AI builder with 20+ years of domain experience, from family medicine practice to bootstrapping a direct primary care startup. This channel documents my healthcare-AI pivot: building in public, sharing insights on clinical workflows, digital health, LLM evaluation, automation, research ops, and turning real projects into a practical portfolio.
 
 Every week I release Healthcare AI Weekly which is a journal club discussing an important peer-reviewed healthcare AI article, and one you might have missed. 
@@ -116,9 +230,57 @@ YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
 Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</ns0:summary>
       <ns0:explicit>no</ns0:explicit>
       <ns0:episodeType>full</ns0:episodeType>
-      <ns0:episode>1</ns0:episode>
+      <ns0:episode>2</ns0:episode>
       <ns0:duration>4:08</ns0:duration>
       <ns0:image href="https://rtmalikian.github.io/haw-podcast/weekly/artwork/haw_2026-05-29-production_healthcare_ai_weekly_2026-05-29_production.jpg"/>
+    </item>
+    <item>
+      <title>Healthcare AI Weekly: LLM Diagnostic Reasoning + Nurse Concern Signals | Healthcare AI Weekly</title>
+      <guid isPermaLink="false">urn:episode:weekly:haw_2026-05-23</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/weekly/audio/haw_2026-05-23.mp3" length="11411206" type="audio/mpeg"/>
+      <pubDate>Sat, 23 May 2026 00:00:00 GMT</pubDate>
+      <description>Welcome to Healthcare AI Weekly with Raphael Malikian. This episode breaks down two recent peer-reviewed healthcare AI papers: one major paper on large language models for diagnostic reasoning in epilepsy, and one overlooked but important paper on nurse concern signals for inpatient deterioration.
+
+Papers covered:
+1. &quot;Evaluating large language models for diagnostic reasoning from unstructured clinical narratives in epilepsy&quot; - Dani et al.
+2. &quot;Enhancing prediction of inpatient deterioration by combining nursing concern signals with machine learning&quot;
+
+Both papers explore how AI can augment clinical judgment - one at the diagnostic reasoning level, the other at the bedside monitoring level.
+
+MEDICAL DISCLAIMER: This podcast is for educational and informational purposes only. It is not intended to diagnose, treat, cure, or prevent any medical condition. Nothing discussed in this episode constitutes medical advice. If you have a medical concern or health problem, you must seek attention from a licensed medical professional immediately.
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com).
+In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.
+
+#HealthcareAI #ClinicalAI #MedicalAI #AIinMedicine #DigitalHealth #MachineLearning #HealthTech #AIResearch #ClinicalDecisionSupport #HealthcareInnovation
+
+YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+      <link>https://rtmalikian.github.io/haw-podcast/weekly/</link>
+      <ns0:title>Healthcare AI Weekly: LLM Diagnostic Reasoning + Nurse Concern Signals | Healthcare AI Weekly</ns0:title>
+      <ns0:summary>Welcome to Healthcare AI Weekly with Raphael Malikian. This episode breaks down two recent peer-reviewed healthcare AI papers: one major paper on large language models for diagnostic reasoning in epilepsy, and one overlooked but important paper on nurse concern signals for inpatient deterioration.
+
+Papers covered:
+1. &quot;Evaluating large language models for diagnostic reasoning from unstructured clinical narratives in epilepsy&quot; - Dani et al.
+2. &quot;Enhancing prediction of inpatient deterioration by combining nursing concern signals with machine learning&quot;
+
+Both papers explore how AI can augment clinical judgment - one at the diagnostic reasoning level, the other at the bedside monitoring level.
+
+MEDICAL DISCLAIMER: This podcast is for educational and informational purposes only. It is not intended to diagnose, treat, cure, or prevent any medical condition. Nothing discussed in this episode constitutes medical advice. If you have a medical concern or health problem, you must seek attention from a licensed medical professional immediately.
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com).
+In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.
+
+#HealthcareAI #ClinicalAI #MedicalAI #AIinMedicine #DigitalHealth #MachineLearning #HealthTech #AIResearch #ClinicalDecisionSupport #HealthcareInnovation
+
+YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>1</ns0:episode>
+      <ns0:duration>7:55</ns0:duration>
     </item>
   </channel>
 </rss>
