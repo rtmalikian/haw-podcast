@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>Healthcare AI Weekly</title>
+    <link>https://rtmalikian.github.io/haw-podcast/weekly/</link>
+    <description>Deep dives into the most important healthcare AI research of the week. Each episode features in-depth analysis of two newly published peer-reviewed papers — one high-impact study and one overlooked gem — at the frontier of clinical artificial intelligence.
+
+Hosted by Raphael T. Malikian, MBBS, BSc (Hons), Healthcare AI Weekly goes beyond headlines to examine methodology, clinical implications, limitations, and what these findings mean for patients, providers, and the future of medicine.
+
+Published weekly. Subscribe wherever you listen to podcasts.</description>
+    <language>en</language>
+    <copyright>© 2026 Raphael T. Malikian</copyright>
+    <lastBuildDate>Sat, 13 Jun 2026 01:06:20 GMT</lastBuildDate>
+    <generator>HAW Podcast Builder v1.0</generator>
+    <atom:link href="https://rtmalikian.github.io/haw-podcast/weekly/feed.xml" rel="self" type="application/rss+xml"/>
+    <ns0:author>Raphael T. Malikian</ns0:author>
+    <ns0:summary>Deep dives into the most important healthcare AI research of the week. Each episode features in-depth analysis of two newly published peer-reviewed papers — one high-impact study and one overlooked gem — at the frontier of clinical artificial intelligence.
+
+Hosted by Raphael T. Malikian, MBBS, BSc (Hons), Healthcare AI Weekly goes beyond headlines to examine methodology, clinical implications, limitations, and what these findings mean for patients, providers, and the future of medicine.
+
+Published weekly. Subscribe wherever you listen to podcasts.</ns0:summary>
+    <ns0:explicit>no</ns0:explicit>
+    <ns0:type>episodic</ns0:type>
+    <ns0:owner>
+      <ns0:name>Raphael T. Malikian</ns0:name>
+      <ns0:email>rtmalikian@gmail.com</ns0:email>
+    </ns0:owner>
+    <ns0:image href="https://rtmalikian.github.io/haw-podcast/show_artwork/haw_show_artwork_3000.jpg"/>
+    <ns0:category text="Science">
+      <ns0:category text="Medicine"/>
+    </ns0:category>
+    <ns1:locked>no</ns1:locked>
+    <ns1:guid>urn:podcast:haw-weekly</ns1:guid>
+    <item>
+      <title>Healthcare AI Weekly: AI Triage Meets Governance | Healthcare AI Weekly</title>
+      <guid isPermaLink="false">urn:episode:weekly:haw_2026-05-29-production_healthcare_ai_weekly_2026-05-29_production</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/weekly/audio/haw_2026-05-29-production_healthcare_ai_weekly_2026-05-29_production.mp3" length="5961241" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Jun 2026 01:06:20 GMT</pubDate>
+      <link>https://rtmalikian.github.io/haw-podcast/weekly/</link>
+      <description>I’m Raphael Malikian, a healthcare AI builder with 20+ years of domain experience, from family medicine practice to bootstrapping a direct primary care startup. This channel documents my healthcare-AI pivot: building in public, sharing insights on clinical workflows, digital health, LLM evaluation, automation, research ops, and turning real projects into a practical portfolio.
+
+Every week I release Healthcare AI Weekly which is a journal club discussing an important peer-reviewed healthcare AI article, and one you might have missed. 
+
+Do you have a healthcare problem that you help with solving? Reach out. My email is rtmalikian@gmail.com
+
+Links
+
+Github
+github.com/rtmalikian
+
+LinkedIn
+linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a
+
+---
+
+This week in Healthcare AI Weekly: a source-grounded look at two new peer-reviewed healthcare AI papers.
+
+1) Bavali-Gazik et al. — Developing and validating an AI-based electronic triage model for cardiac-suspected ED patients. PMID: 42182049; PMCID: PMC13195029.
+2) Hiratsuka et al. — AI/ML in Alaska Native healthcare systems: symposium perspectives. PMID: 42176020; PMCID: PMC13202658.
+
+Comment question: which layer matters most for healthcare AI right now — model performance, workflow fit, or governance?
+
+Synthetic voice disclosure: narration uses edge-tts en-US-AndrewNeural synthetic voice for review production.</description>
+      <ns0:title>Healthcare AI Weekly: AI Triage Meets Governance | Healthcare AI Weekly</ns0:title>
+      <ns0:summary>I’m Raphael Malikian, a healthcare AI builder with 20+ years of domain experience, from family medicine practice to bootstrapping a direct primary care startup. This channel documents my healthcare-AI pivot: building in public, sharing insights on clinical workflows, digital health, LLM evaluation, automation, research ops, and turning real projects into a practical portfolio.
+
+Every week I release Healthcare AI Weekly which is a journal club discussing an important peer-reviewed healthcare AI article, and one you might have missed. 
+
+Do you have a healthcare problem that you help with solving? Reach out. My email is rtmalikian@gmail.com
+
+Links
+
+Github
+github.com/rtmalikian
+
+LinkedIn
+linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a
+
+---
+
+This week in Healthcare AI Weekly: a source-grounded look at two new peer-reviewed healthcare AI papers.
+
+1) Bavali-Gazik et al. — Developing and validating an AI-based electronic triage model for cardiac-suspected ED patients. PMID: 42182049; PMCID: PMC13195029.
+2) Hiratsuka et al. — AI/ML in Alaska Native healthcare systems: symposium perspectives. PMID: 42176020; PMCID: PMC13202658.
+
+Comment question: which layer matters most for healthcare AI right now — model performance, workflow fit, or governance?
+
+Synthetic voice disclosure: narration uses edge-tts en-US-AndrewNeural synthetic voice for review production.</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>1</ns0:episode>
+      <ns0:duration>4:08</ns0:duration>
+      <ns0:image href="https://rtmalikian.github.io/haw-podcast/weekly/artwork/haw_2026-05-29-production_healthcare_ai_weekly_2026-05-29_production.jpg"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+[
+  {
+    "episode_num": 1,
+    "date": "2026-05-29-production",
+    "slug": "healthcare_ai_weekly_2026-05-29_production",
+    "title": "Healthcare AI Weekly: AI Triage Meets Governance | Healthcare AI Weekly",
+    "description": "I\u2019m Raphael Malikian, a healthcare AI builder with 20+ years of domain experience, from family medicine practice to bootstrapping a direct primary care startup. This channel documents my healthcare-AI pivot: building in public, sharing insights on clinical workflows, digital health, LLM evaluation, automation, research ops, and turning real projects into a practical portfolio.\n\nEvery week I release Healthcare AI Weekly which is a journal club discussing an important peer-reviewed healthcare AI article, and one you might have missed. \n\nDo you have a healthcare problem that you help with solving? Reach out. My email is rtmalikian@gmail.com\n\nLinks\n\nGithub\ngithub.com/rtmalikian\n\nLinkedIn\nlinkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a\n\n---\n\nThis week in Healthcare AI Weekly: a source-grounded look at two new peer-reviewed healthcare AI papers.\n\n1) Bavali-Gazik et al. \u2014 Developing and validating an AI-based electronic triage model for cardiac-suspected ED patients. PMID: 42182049; PMCID: PMC13195029.\n2) Hiratsuka et al. \u2014 AI/ML in Alaska Native healthcare systems: symposium perspectives. PMID: 42176020; PMCID: PMC13202658.\n\nComment question: which layer matters most for healthcare AI right now \u2014 model performance, workflow fit, or governance?\n\nSynthetic voice disclosure: narration uses edge-tts en-US-AndrewNeural synthetic voice for review production.",
+    "audio_file": "/Users/raphael/Documents/haw_podcast/weekly/audio/haw_2026-05-29-production_healthcare_ai_weekly_2026-05-29_production.mp3",
+    "duration_seconds": 248.277347,
+    "file_size_bytes": 5961241,
+    "youtube_tags": [
+      "healthcare AI",
+      "clinical AI",
+      "medical AI",
+      "AI triage",
+      "emergency department",
+      "ECG AI",
+      "AI governance",
+      "data sovereignty",
+      "Alaska Native health",
+      "Healthcare AI Weekly",
+      "machine learning healthcare"
+    ],
+    "original_video": "/Users/raphael/Documents/healthcare_ai_weekly_2026-05-29_production/video/full/healthcare_ai_weekly_2026-05-29_full_4k_review.mp4"
+  }
+]

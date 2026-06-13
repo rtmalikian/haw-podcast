@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healthcare AI Podcasts — Daily & Weekly</title>
+    <meta name="description" content="Healthcare AI Daily and Healthcare AI Weekly podcasts by Raphael T. Malikian. Your source for clinical AI research.">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0a0f1e; color: #e0e8f0; line-height: 1.6; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+        header { text-align: center; padding: 60px 20px 40px; background: linear-gradient(135deg, #0a0f1e 0%, #0f1932 100%); border-bottom: 2px solid rgba(0,180,220,0.3); }
+        h1 { font-size: 2.5em; color: #00b4dc; margin-bottom: 10px; }
+        .subtitle { font-size: 1.2em; color: #8ca0b8; }
+        .shows { display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 40px; padding: 60px 0; }
+        .show-card { background: rgba(15,25,50,0.8); border: 1px solid rgba(0,180,220,0.2); border-radius: 16px; padding: 30px; text-align: center; transition: transform 0.3s, border-color 0.3s; }
+        .show-card:hover { transform: translateY(-4px); border-color: rgba(0,180,220,0.6); }
+        .show-card img { width: 200px; height: 200px; border-radius: 12px; margin-bottom: 20px; box-shadow: 0 8px 32px rgba(0,0,0,0.4); }
+        .show-card h2 { color: #00b4dc; font-size: 1.5em; margin-bottom: 8px; }
+        .show-card p { color: #8ca0b8; font-size: 0.95em; margin-bottom: 20px; }
+        .subscribe-btns { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
+        .btn { display: inline-block; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 0.9em; transition: all 0.3s; }
+        .btn-apple { background: #000; color: #fff; border: 1px solid #333; }
+        .btn-spotify { background: #1db954; color: #fff; }
+        .btn-rss { background: rgba(0,180,220,0.2); color: #00b4dc; border: 1px solid rgba(0,180,220,0.4); }
+        .btn-google { background: #4285f4; color: #fff; }
+        .btn:hover { opacity: 0.85; transform: scale(1.02); }
+        .episodes { padding: 20px 0; }
+        .episodes h3 { color: #00b4dc; font-size: 1.3em; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 1px solid rgba(0,180,220,0.2); }
+        .ep-list { list-style: none; }
+        .ep-item { padding: 15px; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; justify-content: space-between; align-items: center; }
+        .ep-item:hover { background: rgba(0,180,220,0.05); }
+        .ep-title { font-weight: 600; color: #e0e8f0; }
+        .ep-date { color: #5a7090; font-size: 0.85em; }
+        .ep-duration { color: #00b4dc; font-size: 0.85em; }
+        footer { text-align: center; padding: 40px; color: #3a5070; border-top: 1px solid rgba(0,180,220,0.1); }
+        footer a { color: #00b4dc; text-decoration: none; }
+        @media (max-width: 768px) { h1 { font-size: 1.8em; } .shows { grid-template-columns: 1fr; } }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🧠 Healthcare AI Podcasts</h1>
+        <p class="subtitle">Evidence-based insights on AI in clinical medicine</p>
+    </header>
+    
+    <div class="container">
+        <div class="shows">
+            <div class="show-card">
+                <img src="show_artwork/had_show_artwork_3000.jpg" alt="Healthcare AI Daily">
+                <h2>Healthcare AI Daily</h2>
+                <p>Your daily dose of clinical AI research. Each episode breaks down the latest peer-reviewed research in under 3 minutes.</p>
+                <div class="subscribe-btns">
+                    <a href="https://podcasts.apple.com/podcast/healthcare-ai-daily/id000000000" class="btn btn-apple">🍎 Apple</a>
+                    <a href="https://open.spotify.com/show/healthcare-ai-daily" class="btn btn-spotify">🎵 Spotify</a>
+                    <a href="daily/feed.xml" class="btn btn-rss">📡 RSS Feed</a>
+                </div>
+                <div class="episodes">
+                    <h3>Recent Episodes</h3>
+                    <ul class="ep-list" id="daily-episodes"></ul>
+                </div>
+            </div>
+            
+            <div class="show-card">
+                <img src="show_artwork/haw_show_artwork_3000.jpg" alt="Healthcare AI Weekly">
+                <h2>Healthcare AI Weekly</h2>
+                <p>Deep dives into the most important healthcare AI research. In-depth analysis of peer-reviewed papers.</p>
+                <div class="subscribe-btns">
+                    <a href="https://podcasts.apple.com/podcast/healthcare-ai-weekly/id000000000" class="btn btn-apple">🍎 Apple</a>
+                    <a href="https://open.spotify.com/show/healthcare-ai-weekly" class="btn btn-spotify">🎵 Spotify</a>
+                    <a href="weekly/feed.xml" class="btn btn-rss">📡 RSS Feed</a>
+                </div>
+                <div class="episodes">
+                    <h3>Recent Episodes</h3>
+                    <ul class="ep-list" id="weekly-episodes"></ul>
+                </div>
+            </div>
+        </div>
+        
+        <div style="text-align:center; padding: 40px 0;">
+            <h2 style="color:#00b4dc; margin-bottom:15px;">About the Host</h2>
+            <p style="max-width:700px; margin:0 auto; color:#8ca0b8;">
+                <strong style="color:#e0e8f0;">Raphael T. Malikian, MBBS, BSc (Hons)</strong><br>
+                Clinical AI researcher and healthcare technology specialist bridging the gap between 
+                cutting-edge artificial intelligence research and real-world clinical impact. 
+                Covering the latest in LLMs for clinical decision support, computer vision in pathology, 
+                federated learning for patient privacy, and AI-powered diagnostics.
+            </p>
+            <div style="margin-top:20px;">
+                <a href="https://github.com/rtmalikian" style="color:#00b4dc; margin:0 10px;">GitHub</a>
+                <a href="https://linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a" style="color:#00b4dc; margin:0 10px;">LinkedIn</a>
+                <a href="https://youtube.com/@healthcareaidaily" style="color:#00b4dc; margin:0 10px;">YouTube</a>
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>&copy; 2026 Raphael T. Malikian. All rights reserved.</p>
+        <p style="margin-top:10px;">
+            <a href="daily/feed.xml">Daily RSS</a> · 
+            <a href="weekly/feed.xml">Weekly RSS</a> · 
+            <a href="https://github.com/rtmalikian/haw-podcast">Source</a>
+        </p>
+    </footer>
+    
+    <script>
+    // Load episode lists from manifests
+    async function loadEpisodes(manifestPath, containerId) {
+        try {
+            const resp = await fetch(manifestPath);
+            const episodes = await resp.json();
+            const container = document.getElementById(containerId);
+            episodes.slice(-5).reverse().forEach(ep => {
+                const li = document.createElement('li');
+                li.className = 'ep-item';
+                const dur = Math.floor(ep.duration_seconds / 60) + ':' + String(Math.floor(ep.duration_seconds % 60)).padStart(2, '0');
+                li.innerHTML = `
+                    <div>
+                        <div class="ep-title">${ep.title}</div>
+                        <div class="ep-date">${ep.date}</div>
+                    </div>
+                    <span class="ep-duration">${dur}</span>
+                `;
+                container.appendChild(li);
+            });
+        } catch(e) { console.error('Failed to load:', manifestPath, e); }
+    }
+    loadEpisodes('daily/episodes/manifest.json', 'daily-episodes');
+    loadEpisodes('weekly/episodes/manifest.json', 'weekly-episodes');
+    </script>
+</body>
+</html>

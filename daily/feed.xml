@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>Healthcare AI Daily</title>
+    <link>https://rtmalikian.github.io/haw-podcast/daily/</link>
+    <description>Your daily dose of clinical AI research. Each episode breaks down the latest peer-reviewed research at the intersection of artificial intelligence and healthcare — from large language models in clinical decision support to computer vision in pathology, from federated learning for patient privacy to AI-powered diagnostics.
+
+Hosted by Raphael T. Malikian, MBBS, BSc (Hons), Healthcare AI Daily bridges the gap between cutting-edge AI research and real-world clinical impact. Whether you're a clinician, researcher, technologist, or simply curious about how AI is transforming medicine, each episode delivers clear, evidence-based insights in under 3 minutes.
+
+New episodes every day. Subscribe wherever you listen to podcasts.</description>
+    <language>en</language>
+    <copyright>© 2026 Raphael T. Malikian</copyright>
+    <lastBuildDate>Sat, 13 Jun 2026 01:06:20 GMT</lastBuildDate>
+    <generator>HAW Podcast Builder v1.0</generator>
+    <atom:link href="https://rtmalikian.github.io/haw-podcast/daily/feed.xml" rel="self" type="application/rss+xml"/>
+    <ns0:author>Raphael T. Malikian</ns0:author>
+    <ns0:summary>Your daily dose of clinical AI research. Each episode breaks down the latest peer-reviewed research at the intersection of artificial intelligence and healthcare — from large language models in clinical decision support to computer vision in pathology, from federated learning for patient privacy to AI-powered diagnostics.
+
+Hosted by Raphael T. Malikian, MBBS, BSc (Hons), Healthcare AI Daily bridges the gap between cutting-edge AI research and real-world clinical impact. Whether you're a clinician, researcher, technologist, or simply curious about how AI is transforming medicine, each episode delivers clear, evidence-based insights in under 3 minutes.
+
+New episodes every day. Subscribe wherever you listen to podcasts.</ns0:summary>
+    <ns0:explicit>no</ns0:explicit>
+    <ns0:type>episodic</ns0:type>
+    <ns0:owner>
+      <ns0:name>Raphael T. Malikian</ns0:name>
+      <ns0:email>rtmalikian@gmail.com</ns0:email>
+    </ns0:owner>
+    <ns0:image href="https://rtmalikian.github.io/haw-podcast/show_artwork/had_show_artwork_3000.jpg"/>
+    <ns0:category text="Science">
+      <ns0:category text="Medicine"/>
+    </ns0:category>
+    <ns1:locked>no</ns1:locked>
+    <ns1:guid>urn:podcast:haw-daily</ns1:guid>
+    <item>
+      <title>AI Reads Bacterial Fingerprints to Predict Antibiotic Resistance | Healthcare AI Daily</title>
+      <guid isPermaLink="false">urn:episode:daily:had_2026-06-14-antibiotic-resistance_healthcare_ai_daily_2026-06-14_antibiotic_resistance_ai</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-14-antibiotic-resistance_healthcare_ai_daily_2026-06-14_antibiotic_resistance_ai.mp3" length="2540686" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Jun 2026 01:06:20 GMT</pubDate>
+      <link>https://rtmalikian.github.io/haw-podcast/daily/</link>
+      <description>Right now, doctors wait one to three days to learn which antibiotics will work for a serious infection. A new deep learning system called ANTIBIOTIC reads mass spectrometry data hospitals already collect and predicts resistance in minutes.
+
+Antimicrobial resistance kills over a million people a year. The core problem is speed - conventional testing takes one to three days. During that window, doctors prescribe broad-spectrum antibiotics, driving more resistance.
+
+Published in NPJ Digital Medicine by Wang, Tsao, Hsieh et al. from National Taiwan University Hospital.
+
+Key findings:
+- Bacterial identification AUC: 0.99 (internal), 0.96 (external)
+- Resistance prediction AUC: 0.94 (internal), 0.61 after fine-tuning on recent data
+- 89,026 mass spectrometry records, 274 deep learning models
+- 26 models for bacterial ID, 248 for antibiotic resistance prediction
+- Integrated chatbot for antibiotic recommendation with kidney-function dosing
+
+A resistance AUC of 0.61 is not a slam dunk - but it is decision support, not a replacement for lab culture. The open-source pipeline means any hospital can adapt it locally.
+
+Paper: https://doi.org/10.1038/s41746-026-02879-w
+
+Like and subscribe for daily Healthcare AI episodes. New videos every day on the latest in clinical AI research.
+
+#HealthcareAI #MachineLearning #AntibioticResistance #AI #DeepLearning #ClinicalAI #MALDITOF #DigitalMedicine #AntimicrobialResistance #InfectiousDisease</description>
+      <ns0:title>AI Reads Bacterial Fingerprints to Predict Antibiotic Resistance | Healthcare AI Daily</ns0:title>
+      <ns0:summary>Right now, doctors wait one to three days to learn which antibiotics will work for a serious infection. A new deep learning system called ANTIBIOTIC reads mass spectrometry data hospitals already collect and predicts resistance in minutes.
+
+Antimicrobial resistance kills over a million people a year. The core problem is speed - conventional testing takes one to three days. During that window, doctors prescribe broad-spectrum antibiotics, driving more resistance.
+
+Published in NPJ Digital Medicine by Wang, Tsao, Hsieh et al. from National Taiwan University Hospital.
+
+Key findings:
+- Bacterial identification AUC: 0.99 (internal), 0.96 (external)
+- Resistance prediction AUC: 0.94 (internal), 0.61 after fine-tuning on recent data
+- 89,026 mass spectrometry records, 274 deep learning models
+- 26 models for bacterial ID, 248 for antibiotic resistance prediction
+- Integrated chatbot for antibiotic recommendation with kidney-function dosing
+
+A resistance AUC of 0.61 is not a slam dunk - but it is decision support, not a replacement for lab culture. The open-source pipeline means any hospital can adapt it locally.
+
+Paper: https://doi.org/10.1038/s41746-026-02879-w
+
+Like and subscribe for daily Healthcare AI episodes. New videos every day on the latest in clinical AI research.
+
+#HealthcareAI #MachineLearning #AntibioticResistance #AI #DeepLearning #ClinicalAI #MALDITOF #DigitalMedicine #AntimicrobialResistance #InfectiousDisease</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>14</ns0:episode>
+      <ns0:duration>1:45</ns0:duration>
+      <ns0:image href="https://rtmalikian.github.io/haw-podcast/daily/artwork/had_2026-06-14-antibiotic-resistance_healthcare_ai_daily_2026-06-14_antibiotic_resistance_ai.jpg"/>
+    </item>
+    <item>
+      <title>When AI Makes Things Up in Medicine: What Actually Works | Healthcare AI Daily</title>
+      <guid isPermaLink="false">urn:episode:daily:had_2026-06-13-ai-hallucination_healthcare_ai_daily_2026-06-13_ai_hallucination_mitigation</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-13-ai-hallucination_healthcare_ai_daily_2026-06-13_ai_hallucination_mitigation.mp3" length="2710573" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Jun 2026 01:06:20 GMT</pubDate>
+      <link>https://rtmalikian.github.io/haw-podcast/daily/</link>
+      <description>What happens when healthcare AI hallucinates? A new systematic review of 44 studies identifies 7 strategies that actually reduce AI errors in medicine.
+
+Sanjay Basu and Benjamin Huynh from UC San Francisco and Johns Hopkins reviewed every major approach - from retrieval-augmented generation to human-in-the-loop oversight - and found that combining strategies consistently beats any single method.
+
+Key findings:
+- RAG reduced hallucinations by 30-50%
+- Human-in-the-loop achieved up to 95% reduction
+- Combined approaches outperformed all single methods
+- Proposed MediHall severity scale for prioritizing AI errors
+
+Paper: Basu S, Huynh B. Mitigating Hallucinations in Healthcare AI: A Systematic Review of Evidence-Based Strategies. BMC Health Services Research (2026).
+DOI: 10.1186/s12913-026-14851-1
+PMID: 42251377
+
+What strategies has your team tried to reduce AI hallucinations? Share in the comments.
+
+Like and subscribe for daily Healthcare AI videos.
+
+#HealthcareAI #ArtificialIntelligence #LLM #PatientSafety #AIMedical #RAG #HumanInTheLoop #AISafety #ClinicalAI #HealthInformatics</description>
+      <ns0:title>When AI Makes Things Up in Medicine: What Actually Works | Healthcare AI Daily</ns0:title>
+      <ns0:summary>What happens when healthcare AI hallucinates? A new systematic review of 44 studies identifies 7 strategies that actually reduce AI errors in medicine.
+
+Sanjay Basu and Benjamin Huynh from UC San Francisco and Johns Hopkins reviewed every major approach - from retrieval-augmented generation to human-in-the-loop oversight - and found that combining strategies consistently beats any single method.
+
+Key findings:
+- RAG reduced hallucinations by 30-50%
+- Human-in-the-loop achieved up to 95% reduction
+- Combined approaches outperformed all single methods
+- Proposed MediHall severity scale for prioritizing AI errors
+
+Paper: Basu S, Huynh B. Mitigating Hallucinations in Healthcare AI: A Systematic Review of Evidence-Based Strategies. BMC Health Services Research (2026).
+DOI: 10.1186/s12913-026-14851-1
+PMID: 42251377
+
+What strategies has your team tried to reduce AI hallucinations? Share in the comments.
+
+Like and subscribe for daily Healthcare AI videos.
+
+#HealthcareAI #ArtificialIntelligence #LLM #PatientSafety #AIMedical #RAG #HumanInTheLoop #AISafety #ClinicalAI #HealthInformatics</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>13</ns0:episode>
+      <ns0:duration>1:52</ns0:duration>
+      <ns0:image href="https://rtmalikian.github.io/haw-podcast/daily/artwork/had_2026-06-13-ai-hallucination_healthcare_ai_daily_2026-06-13_ai_hallucination_mitigation.jpg"/>
+    </item>
+    <item>
+      <title>Your Home Could Detect a Stroke Before It Happens | Healthcare AI Daily</title>
+      <guid isPermaLink="false">urn:episode:daily:had_2026-06-12-cvd-home_healthcare_ai_daily_2026-06-12_cvd_home_monitoring</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-12-cvd-home_healthcare_ai_daily_2026-06-12_cvd_home_monitoring.mp3" length="3551283" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Jun 2026 01:06:20 GMT</pubDate>
+      <link>https://rtmalikian.github.io/haw-podcast/daily/</link>
+      <description>Can contactless sensors in your home detect cerebrovascular disease before a stroke happens? A new study from South Korea placed IoT sensors in the homes of 1,224 older adults and trained an AI to watch for subtle changes in movement, sleep, and activity patterns.
+
+The AI identified people in the pre-stroke phase with 85% precision, and predicted who was within four weeks of diagnosis with 95% sensitivity. Evening activity patterns were the strongest signal.
+
+Published in NPJ Digital Medicine (2026). DOI: 10.1038/s41746-026-02836-7
+
+Authors: Baek J, Cho K-H, Lim L, Chong JW
+
+Key findings:
+- 1,224 adults aged 65+, 13,362 two-week observation windows
+- AUPRC 0.85 for prodromal (pre-diagnosis) identification
+- AUROC 0.91 for classifying diagnosed patients
+- 95% sensitivity, 97% specificity for imminent diagnostic risk
+- Bedtime hours (10 PM - 2 AM) and evening hours (6-10 PM) most informative
+- Even indoor humidity correlated with cerebrovascular risk
+
+This is retrospective research. Prospective validation is the critical next step.
+
+What do you think about AI monitoring in the home? Drop your thoughts in the comments.
+
+Like and subscribe for daily Healthcare AI episodes. New videos every day on the latest in clinical AI research.
+
+#HealthcareAI #Stroke #CerebrovascularDisease #SmartHome #AI #DigitalHealth #MachineLearning #ElderlyCare #IoT #NPJDigitalMedicine #StrokePrevention #RemotePatientMonitoring #AgingInPlace</description>
+      <ns0:title>Your Home Could Detect a Stroke Before It Happens | Healthcare AI Daily</ns0:title>
+      <ns0:summary>Can contactless sensors in your home detect cerebrovascular disease before a stroke happens? A new study from South Korea placed IoT sensors in the homes of 1,224 older adults and trained an AI to watch for subtle changes in movement, sleep, and activity patterns.
+
+The AI identified people in the pre-stroke phase with 85% precision, and predicted who was within four weeks of diagnosis with 95% sensitivity. Evening activity patterns were the strongest signal.
+
+Published in NPJ Digital Medicine (2026). DOI: 10.1038/s41746-026-02836-7
+
+Authors: Baek J, Cho K-H, Lim L, Chong JW
+
+Key findings:
+- 1,224 adults aged 65+, 13,362 two-week observation windows
+- AUPRC 0.85 for prodromal (pre-diagnosis) identification
+- AUROC 0.91 for classifying diagnosed patients
+- 95% sensitivity, 97% specificity for imminent diagnostic risk
+- Bedtime hours (10 PM - 2 AM) and evening hours (6-10 PM) most informative
+- Even indoor humidity correlated with cerebrovascular risk
+
+This is retrospective research. Prospective validation is the critical next step.
+
+What do you think about AI monitoring in the home? Drop your thoughts in the comments.
+
+Like and subscribe for daily Healthcare AI episodes. New videos every day on the latest in clinical AI research.
+
+#HealthcareAI #Stroke #CerebrovascularDisease #SmartHome #AI #DigitalHealth #MachineLearning #ElderlyCare #IoT #NPJDigitalMedicine #StrokePrevention #RemotePatientMonitoring #AgingInPlace</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>12</ns0:episode>
+      <ns0:duration>2:27</ns0:duration>
+      <ns0:image href="https://rtmalikian.github.io/haw-podcast/daily/artwork/had_2026-06-12-cvd-home_healthcare_ai_daily_2026-06-12_cvd_home_monitoring.jpg"/>
+    </item>
+    <item>
+      <title>Healthcare AI Daily: GPT-5, Grok 4, DeepSeek R1 on Blood Count Reports</title>
+      <guid isPermaLink="false">urn:episode:daily:had_2026-06-11-llm-cbc_healthcare_ai_daily_2026-06-11_llm_cbc_hematology</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-11-llm-cbc_healthcare_ai_daily_2026-06-11_llm_cbc_hematology.mp3" length="2777638" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Jun 2026 01:06:20 GMT</pubDate>
+      <link>https://rtmalikian.github.io/haw-podcast/daily/</link>
+      <description>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
+GitHub: https://github.com/rtmalikian
+LinkedIn: http://www.linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a
+
+---
+
+Healthcare AI Daily translates one healthcare AI paper into a short practical briefing for builders, clinicians, researchers, and governance teams. Today: how three frontier AI models performed when interpreting real blood count reports from patients with blood diseases, and where each one stumbled.
+
+Source article
+Title: Performance Evaluation of GPT-5, Grok 4, and DeepSeek R1 in Interpreting Complete Blood Count Reports for Hematologic Diseases: Retrospective Comparative Study
+Authors: Xianfei Ye, Xinglun Qi, Lina Fan, Qian Yu, Suming Zhou, Chunyun Ren, Dagan Yang
+Journal: Journal of Medical Internet Research (JMIR)
+Published: 5 Jun 2026
+DOI: https://doi.org/10.2196/87802
+Article: https://www.jmir.org/2026/1/e87802
+
+Keywords: healthcare AI, medical AI, large language models, GPT-5, Grok 4, DeepSeek R1, blood count, CBC, hematology, clinical validation, AI hallucinations, lab medicine, AI safety, clinical deployment.
+
+This video is educational commentary, not medical advice. Source screenshots and figures are used for attributed research discussion.
+
+Like, subscribe, and enable notifications for daily Healthcare AI episodes. Healthcare AI Weekly releases every Friday at 9 AM.</description>
+      <ns0:title>Healthcare AI Daily: GPT-5, Grok 4, DeepSeek R1 on Blood Count Reports</ns0:title>
+      <ns0:summary>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
+GitHub: https://github.com/rtmalikian
+LinkedIn: http://www.linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a
+
+---
+
+Healthcare AI Daily translates one healthcare AI paper into a short practical briefing for builders, clinicians, researchers, and governance teams. Today: how three frontier AI models performed when interpreting real blood count reports from patients with blood diseases, and where each one stumbled.
+
+Source article
+Title: Performance Evaluation of GPT-5, Grok 4, and DeepSeek R1 in Interpreting Complete Blood Count Reports for Hematologic Diseases: Retrospective Comparative Study
+Authors: Xianfei Ye, Xinglun Qi, Lina Fan, Qian Yu, Suming Zhou, Chunyun Ren, Dagan Yang
+Journal: Journal of Medical Internet Research (JMIR)
+Published: 5 Jun 2026
+DOI: https://doi.org/10.2196/87802
+Article: https://www.jmir.org/2026/1/e87802
+
+Keywords: healthcare AI, medical AI, large language models, GPT-5, Grok 4, DeepSeek R1, blood count, CBC, hematology, clinical validation, AI hallucinations, lab medicine, AI safety, clinical deployment.
+
+This video is educational commentary, not medical advice. Source screenshots and figures are used for attributed research discussion.
+
+Like, subscribe, and enable notifications for daily Healthcare AI episodes. Healthcare AI Weekly releases every Friday at 9 AM.</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>11</ns0:episode>
+      <ns0:duration>1:55</ns0:duration>
+      <ns0:image href="https://rtmalikian.github.io/haw-podcast/daily/artwork/had_2026-06-11-llm-cbc_healthcare_ai_daily_2026-06-11_llm_cbc_hematology.jpg"/>
+    </item>
+    <item>
+      <title>AI Mobile App Catches Skin Cancers in Rural Brazil | Healthcare AI Daily</title>
+      <guid isPermaLink="false">urn:episode:daily:had_2026-06-10-skin-cancer_healthcare_ai_daily_2026-06-10_skin_cancer_triage</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-10-skin-cancer_healthcare_ai_daily_2026-06-10_skin_cancer_triage.mp3" length="2396470" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Jun 2026 01:06:20 GMT</pubDate>
+      <link>https://rtmalikian.github.io/haw-podcast/daily/</link>
+      <description>In rural Brazil, there’s one dermatologist for every 17,000 people. A new AI app that works completely offline just helped health workers catch skin cancers far more accurately.
+
+Published in npj Digital Medicine (Nature), Pacheco et al. validated the tool with 131 healthcare professionals across 9 cities. Sensitivity jumped from 64% to 80% with AI assistance. In rural areas, unnecessary specialist referrals dropped 30% while cancer surgeries stayed the same.
+
+Key findings:
+• AI model: fine-tuned MobileNet-V3, trained on 13,569 images
+• 5 priority levels for malignancy risk
+• Offline-capable mobile app for rural deployment
+• Sensitivity: 0.648 → 0.804 with AI assistance
+• Triage effectiveness: 58.6% → 75.7%
+
+Limitations: single Brazilian state, not all skin tones represented, triage tool not diagnosis.
+
+Paper: Pacheco et al., &quot;Towards a clinically integrated artificial intelligence tool for triage of skin cancer,&quot; npj Digital Medicine, 2026. DOI: 10.1038/s41746-026-02851-8
+
+If this kind of breakdown is useful to you, take a second to like and subscribe — it really does help.
+
+#HealthcareAI #SkinCancer #AI #DigitalHealth #MachineLearning #ClinicalValidation #MobileHealth</description>
+      <ns0:title>AI Mobile App Catches Skin Cancers in Rural Brazil | Healthcare AI Daily</ns0:title>
+      <ns0:summary>In rural Brazil, there’s one dermatologist for every 17,000 people. A new AI app that works completely offline just helped health workers catch skin cancers far more accurately.
+
+Published in npj Digital Medicine (Nature), Pacheco et al. validated the tool with 131 healthcare professionals across 9 cities. Sensitivity jumped from 64% to 80% with AI assistance. In rural areas, unnecessary specialist referrals dropped 30% while cancer surgeries stayed the same.
+
+Key findings:
+• AI model: fine-tuned MobileNet-V3, trained on 13,569 images
+• 5 priority levels for malignancy risk
+• Offline-capable mobile app for rural deployment
+• Sensitivity: 0.648 → 0.804 with AI assistance
+• Triage effectiveness: 58.6% → 75.7%
+
+Limitations: single Brazilian state, not all skin tones represented, triage tool not diagnosis.
+
+Paper: Pacheco et al., &quot;Towards a clinically integrated artificial intelligence tool for triage of skin cancer,&quot; npj Digital Medicine, 2026. DOI: 10.1038/s41746-026-02851-8
+
+If this kind of breakdown is useful to you, take a second to like and subscribe — it really does help.
+
+#HealthcareAI #SkinCancer #AI #DigitalHealth #MachineLearning #ClinicalValidation #MobileHealth</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>10</ns0:episode>
+      <ns0:duration>1:39</ns0:duration>
+      <ns0:image href="https://rtmalikian.github.io/haw-podcast/daily/artwork/had_2026-06-10-skin-cancer_healthcare_ai_daily_2026-06-10_skin_cancer_triage.jpg"/>
+    </item>
+    <item>
+      <title>Can AI Read Your ECG? Testing Vision-Language Models on Real ECGs | Healthcare AI Daily</title>
+      <guid isPermaLink="false">urn:episode:daily:had_2026-06-09-ecg-vlm_healthcare_ai_daily_2026-06-09_ecg_vlm_interpretation</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-09-ecg-vlm_healthcare_ai_daily_2026-06-09_ecg_vlm_interpretation.mp3" length="3753182" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Jun 2026 01:06:20 GMT</pubDate>
+      <link>https://rtmalikian.github.io/haw-podcast/daily/</link>
+      <description>Can ChatGPT, Gemini, or Claude actually read an electrocardiogram? A new peer-reviewed study tested six major vision-language models on 70 real clinical ECG images.
+
+The results are a wake-up call for anyone assuming AI can replace ECG interpretation.
+
+Key findings:
+• Best generalist model (ChatGPT-5): 62% balanced accuracy
+• Atrial fibrillation sensitivity: 11% or less — missed nearly every case
+• ST-segment deviation sensitivity: below 25%
+• Specialized ECG model PULSE-7B reached 89% for rhythm classification
+
+Paper: &quot;Performance of Vision-Enabled Large Language Models in Image-Based Electrocardiogram Interpretation: Exploratory Evaluation&quot;
+Authors: Soubh, Rasenack, Haarmann, Wiedmann, Zabel, Schmidt, Suliman, Bergau
+Journal: Journal of Medical Internet Research, June 3, 2026
+DOI: 10.2196/86692
+
+#HealthcareAI #ECG #AIinMedicine #Cardiology #VisionLanguageModels #ClinicalAI
+
+If this kind of breakdown is useful to you, take a second to like and subscribe — it really does help.</description>
+      <ns0:title>Can AI Read Your ECG? Testing Vision-Language Models on Real ECGs | Healthcare AI Daily</ns0:title>
+      <ns0:summary>Can ChatGPT, Gemini, or Claude actually read an electrocardiogram? A new peer-reviewed study tested six major vision-language models on 70 real clinical ECG images.
+
+The results are a wake-up call for anyone assuming AI can replace ECG interpretation.
+
+Key findings:
+• Best generalist model (ChatGPT-5): 62% balanced accuracy
+• Atrial fibrillation sensitivity: 11% or less — missed nearly every case
+• ST-segment deviation sensitivity: below 25%
+• Specialized ECG model PULSE-7B reached 89% for rhythm classification
+
+Paper: &quot;Performance of Vision-Enabled Large Language Models in Image-Based Electrocardiogram Interpretation: Exploratory Evaluation&quot;
+Authors: Soubh, Rasenack, Haarmann, Wiedmann, Zabel, Schmidt, Suliman, Bergau
+Journal: Journal of Medical Internet Research, June 3, 2026
+DOI: 10.2196/86692
+
+#HealthcareAI #ECG #AIinMedicine #Cardiology #VisionLanguageModels #ClinicalAI
+
+If this kind of breakdown is useful to you, take a second to like and subscribe — it really does help.</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>9</ns0:episode>
+      <ns0:duration>2:36</ns0:duration>
+      <ns0:image href="https://rtmalikian.github.io/haw-podcast/daily/artwork/had_2026-06-09-ecg-vlm_healthcare_ai_daily_2026-06-09_ecg_vlm_interpretation.jpg"/>
+    </item>
+    <item>
+      <title>AI-Powered HER2 Scoring in Breast Cancer Pathology | Healthcare AI Daily</title>
+      <guid isPermaLink="false">urn:episode:daily:had_2026-06-08_her2_ai_scoring</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-08_her2_ai_scoring.mp3" length="1890033" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
+      <link>https://rtmalikian.github.io/haw-podcast/daily/</link>
+      <description>New AI approaches to HER2 scoring in breast cancer pathology slides, improving consistency and speed of this critical biomarker assessment.</description>
+      <ns0:title>AI-Powered HER2 Scoring in Breast Cancer Pathology | Healthcare AI Daily</ns0:title>
+      <ns0:summary>New AI approaches to HER2 scoring in breast cancer pathology slides, improving consistency and speed of this critical biomarker assessment.</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>8</ns0:episode>
+      <ns0:duration>1:58</ns0:duration>
+      <ns0:image href="https://rtmalikian.github.io/haw-podcast/daily/artwork/had_2026-06-08_her2_ai_scoring.jpg"/>
+    </item>
+    <item>
+      <title>LLM Confidence Calibration in Ultrasound Interpretation | Healthcare AI Daily</title>
+      <guid isPermaLink="false">urn:episode:daily:had_2026-06-07_llm_confidence_ultrasound</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-07_llm_confidence_ultrasound.mp3" length="3630838" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+      <link>https://rtmalikian.github.io/haw-podcast/daily/</link>
+      <description>Examining how well LLMs calibrate their confidence when interpreting ultrasound images, and what this means for clinical decision support systems.</description>
+      <ns0:title>LLM Confidence Calibration in Ultrasound Interpretation | Healthcare AI Daily</ns0:title>
+      <ns0:summary>Examining how well LLMs calibrate their confidence when interpreting ultrasound images, and what this means for clinical decision support systems.</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>7</ns0:episode>
+      <ns0:duration>2:31</ns0:duration>
+      <ns0:image href="https://rtmalikian.github.io/haw-podcast/daily/artwork/had_2026-06-07_llm_confidence_ultrasound.jpg"/>
+    </item>
+    <item>
+      <title>How Large Language Models Are Reshaping Professional Development | Healthcare AI Daily</title>
+      <guid isPermaLink="false">urn:episode:daily:had_2026-06-06_llm_pro_development</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-06_llm_pro_development.mp3" length="4304806" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
+      <link>https://rtmalikian.github.io/haw-podcast/daily/</link>
+      <description>Exploring how LLMs are being used in professional development across healthcare, with implications for training, continuing education, and clinical competency assessment.</description>
+      <ns0:title>How Large Language Models Are Reshaping Professional Development | Healthcare AI Daily</ns0:title>
+      <ns0:summary>Exploring how LLMs are being used in professional development across healthcare, with implications for training, continuing education, and clinical competency assessment.</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>6</ns0:episode>
+      <ns0:duration>2:59</ns0:duration>
+      <ns0:image href="https://rtmalikian.github.io/haw-podcast/daily/artwork/had_2026-06-06_llm_pro_development.jpg"/>
+    </item>
+    <item>
+      <title>Healthcare AI Daily: AI Chatbot Taught Patients About Bone Health in 5 Minutes</title>
+      <guid isPermaLink="false">urn:episode:daily:had_2026-06-05-osteoporosis-chatbot_healthcare_ai_daily_2026-06-05_osteoporosis_chatbot</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-05-osteoporosis-chatbot_healthcare_ai_daily_2026-06-05_osteoporosis_chatbot.mp3" length="6453403" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Jun 2026 01:06:20 GMT</pubDate>
+      <link>https://rtmalikian.github.io/haw-podcast/daily/</link>
+      <description>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
+GitHub: https://github.com/rtmalikian
+LinkedIn: http://www.linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a
+
+---
+
+Healthcare AI Daily translates one recent peer-reviewed healthcare AI article into a short practical briefing — bridging healthcare and technology for a mixed audience of builders, clinicians, patients, and researchers. Today: a formative RCT shows an LLM-powered chatbot (OPBot) improved osteoporosis knowledge scores and reduced nursing education time by 78% compared to face-to-face education — with selective adherence gains and high response reliability.
+
+Source article
+Title: Preliminary Evaluation of a Large Language Model–Powered Chatbot for Osteoporosis Self-Management Education: Formative Randomized Controlled Trial
+Authors: Jinling Huang, Xiaolian Xin, Chunyan He, Haoyan Xiong, Wenjun Pang, Shaobo Pang, Wei Sun, Xianghua Ding
+Journal: JMIR Formative Research
+Published: 2 June 2026
+DOI: https://doi.org/10.2196/85475
+Article: https://formative.jmir.org/2026/1/e85475
+PDF: https://formative.jmir.org/2026/1/e85475/PDF
+PubMed PMID: 42228937
+
+Key reported results: Formative RCT (n=100, 88 analyzed); chatbot knowledge scores: median 80.0 vs 75.0 (P=.01); nurse education time: 5 min vs 23 min (78% reduction, P&lt;.001); calcium supplement adherence: OR 1.49 (P=.02); OPBot response reliability: 89.4% rated highly reliable, Cohen κ=0.83; no significant effects for sun exposure, exercise, or total adherence.
+
+This video is educational commentary, not medical advice. Source screenshots and figures are used for attributed research discussion. Synthetic voice disclosure: narration generated with edge-tts en-US-AndrewNeural and post-processed for clarity.</description>
+      <ns0:title>Healthcare AI Daily: AI Chatbot Taught Patients About Bone Health in 5 Minutes</ns0:title>
+      <ns0:summary>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
+GitHub: https://github.com/rtmalikian
+LinkedIn: http://www.linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a
+
+---
+
+Healthcare AI Daily translates one recent peer-reviewed healthcare AI article into a short practical briefing — bridging healthcare and technology for a mixed audience of builders, clinicians, patients, and researchers. Today: a formative RCT shows an LLM-powered chatbot (OPBot) improved osteoporosis knowledge scores and reduced nursing education time by 78% compared to face-to-face education — with selective adherence gains and high response reliability.
+
+Source article
+Title: Preliminary Evaluation of a Large Language Model–Powered Chatbot for Osteoporosis Self-Management Education: Formative Randomized Controlled Trial
+Authors: Jinling Huang, Xiaolian Xin, Chunyan He, Haoyan Xiong, Wenjun Pang, Shaobo Pang, Wei Sun, Xianghua Ding
+Journal: JMIR Formative Research
+Published: 2 June 2026
+DOI: https://doi.org/10.2196/85475
+Article: https://formative.jmir.org/2026/1/e85475
+PDF: https://formative.jmir.org/2026/1/e85475/PDF
+PubMed PMID: 42228937
+
+Key reported results: Formative RCT (n=100, 88 analyzed); chatbot knowledge scores: median 80.0 vs 75.0 (P=.01); nurse education time: 5 min vs 23 min (78% reduction, P&lt;.001); calcium supplement adherence: OR 1.49 (P=.02); OPBot response reliability: 89.4% rated highly reliable, Cohen κ=0.83; no significant effects for sun exposure, exercise, or total adherence.
+
+This video is educational commentary, not medical advice. Source screenshots and figures are used for attributed research discussion. Synthetic voice disclosure: narration generated with edge-tts en-US-AndrewNeural and post-processed for clarity.</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>5</ns0:episode>
+      <ns0:duration>4:28</ns0:duration>
+      <ns0:image href="https://rtmalikian.github.io/haw-podcast/daily/artwork/had_2026-06-05-osteoporosis-chatbot_healthcare_ai_daily_2026-06-05_osteoporosis_chatbot.jpg"/>
+    </item>
+    <item>
+      <title>Healthcare AI Daily: Privacy-Preserving Local AI Matches Cloud Tools for Self-Harm Detection in NHS Records</title>
+      <guid isPermaLink="false">urn:episode:daily:had_2026-06-04-self-harm_healthcare_ai_daily_2026-06-04_self_harm_local_llm</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-04-self-harm_healthcare_ai_daily_2026-06-04_self_harm_local_llm.mp3" length="2963878" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Jun 2026 01:06:20 GMT</pubDate>
+      <link>https://rtmalikian.github.io/haw-podcast/daily/</link>
+      <description>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
+GitHub: https://github.com/rtmalikian
+LinkedIn: http://www.linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a
+
+---
+
+Healthcare AI Daily translates one recent peer-reviewed healthcare AI article into a short practical briefing. Today: a locally-run large language model matches fine-tuned approaches for detecting self-harm in NHS electronic mental health records — without sending patient data anywhere. Privacy-preserving AI for the most sensitive clinical data. We explain the F1 score, what the NHS is, and the balanced limitations of this single-site study.
+
+Source article
+Title: Detection of Self-Harm in Electronic Mental Health Records Using Privacy-Preserving Local Language Models: Methodological Study
+Authors: Andrey Kormilitzin, Dan W Joyce, Apostolos Tsiachristas, Rohan Borschmann, Navneet Kapur, Galit Geulayov
+Journal: JMIR Mental Health
+Published: 2 June 2026
+DOI: https://doi.org/10.2196/87586
+Article: https://mental.jmir.org/2026/1/e87586
+PDF: https://mental.jmir.org/2026/1/e87586/pdf
+PubMed PMID: 42227874
+
+Key reported results: 1,000 patients, 1,352 annotated notes from Oxford Health NHS Foundation Trust; Gemma3-27b (local, no data leaves institution) vs fine-tuned RoBERTa; self-harm detection F1=0.92 (both models); global weighted F1: Gemma3-27b=0.88 vs RoBERTa=0.85; recent self-harm (51 notes): Gemma3-27b F1=0.79; prompt engineering only, no gradient-based fine-tuning; privacy-preserving: model runs entirely within NHS secure infrastructure.
+
+This video is educational commentary, not medical advice. Source screenshots and figures are used for attributed research discussion.
+
+⚠️ Content disclaimer: This episode discusses self-harm detection in clinical records. If you or someone you know is struggling with thoughts of self-harm, please reach out for help immediately. In the United States, call or text 988 (Suicide and Crisis Lifeline). In the United Kingdom, call 116 123 (Samaritans). Things can get better, and you do not have to face this alone.
+
+Synthetic voice disclosure: narration generated with edge-tts en-US-AndrewNeural and post-processed for clarity.</description>
+      <ns0:title>Healthcare AI Daily: Privacy-Preserving Local AI Matches Cloud Tools for Self-Harm Detection in NHS Records</ns0:title>
+      <ns0:summary>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
+GitHub: https://github.com/rtmalikian
+LinkedIn: http://www.linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a
+
+---
+
+Healthcare AI Daily translates one recent peer-reviewed healthcare AI article into a short practical briefing. Today: a locally-run large language model matches fine-tuned approaches for detecting self-harm in NHS electronic mental health records — without sending patient data anywhere. Privacy-preserving AI for the most sensitive clinical data. We explain the F1 score, what the NHS is, and the balanced limitations of this single-site study.
+
+Source article
+Title: Detection of Self-Harm in Electronic Mental Health Records Using Privacy-Preserving Local Language Models: Methodological Study
+Authors: Andrey Kormilitzin, Dan W Joyce, Apostolos Tsiachristas, Rohan Borschmann, Navneet Kapur, Galit Geulayov
+Journal: JMIR Mental Health
+Published: 2 June 2026
+DOI: https://doi.org/10.2196/87586
+Article: https://mental.jmir.org/2026/1/e87586
+PDF: https://mental.jmir.org/2026/1/e87586/pdf
+PubMed PMID: 42227874
+
+Key reported results: 1,000 patients, 1,352 annotated notes from Oxford Health NHS Foundation Trust; Gemma3-27b (local, no data leaves institution) vs fine-tuned RoBERTa; self-harm detection F1=0.92 (both models); global weighted F1: Gemma3-27b=0.88 vs RoBERTa=0.85; recent self-harm (51 notes): Gemma3-27b F1=0.79; prompt engineering only, no gradient-based fine-tuning; privacy-preserving: model runs entirely within NHS secure infrastructure.
+
+This video is educational commentary, not medical advice. Source screenshots and figures are used for attributed research discussion.
+
+⚠️ Content disclaimer: This episode discusses self-harm detection in clinical records. If you or someone you know is struggling with thoughts of self-harm, please reach out for help immediately. In the United States, call or text 988 (Suicide and Crisis Lifeline). In the United Kingdom, call 116 123 (Samaritans). Things can get better, and you do not have to face this alone.
+
+Synthetic voice disclosure: narration generated with edge-tts en-US-AndrewNeural and post-processed for clarity.</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>4</ns0:episode>
+      <ns0:duration>2:03</ns0:duration>
+      <ns0:image href="https://rtmalikian.github.io/haw-podcast/daily/artwork/had_2026-06-04-self-harm_healthcare_ai_daily_2026-06-04_self_harm_local_llm.jpg"/>
+    </item>
+    <item>
+      <title>Healthcare AI Daily: Radiologists Do Not Fully Trust AI for Intracranial Hemorrhage Detection</title>
+      <guid isPermaLink="false">urn:episode:daily:had_2026-06-03-radiologist-perceptions_healthcare_ai_daily_2026-06-03_radiologist_perceptions</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-03-radiologist-perceptions_healthcare_ai_daily_2026-06-03_radiologist_perceptions.mp3" length="4720561" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Jun 2026 01:06:20 GMT</pubDate>
+      <link>https://rtmalikian.github.io/haw-podcast/daily/</link>
+      <description>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
+GitHub: https://github.com/rtmalikian
+LinkedIn: http://www.linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a
+
+---
+
+Healthcare AI Daily translates one recent peer-reviewed healthcare AI article into a short practical briefing. Today: a cross-sectional survey reveals that radiologists using an FDA-cleared AI tool for intracranial hemorrhage detection report conditional trust, substantial false-positive burden, and limited workflow savings — with neuroradiologists especially critical.
+
+Source article
+Title: Radiologist Perceptions of an AI Tool for Intracranial Hemorrhage Detection in Teleradiology: Cross-Sectional Survey Study
+Authors: Andrew J Del Gaizo, Jackson K Del Gaizo, Troy A Shahoumian
+Journal: JMIR Human Factors
+Published: 2 June 2026
+DOI: https://doi.org/10.2196/92145
+Article: https://humanfactors.jmir.org/2026/1/e92145
+PDF: https://www.jmir.org/2026/1/e92145/PDF
+PubMed PMID: 42228936
+
+Key reported results: 65 radiologists surveyed; only 18.5% found false-positive alerts acceptable; 50.8% trust AI when it agrees vs 3.1% when it conflicts; 32.3% agreed AI correctly identifies most ICH cases; 33.8% said FP review time outweighs benefits (primary endpoint); only 10.8% reported reduced interpretation time; neuroradiologists more critical (52.2% vs 23.8%); 32.3% worried about legal vulnerability when overriding AI.
+
+This video is educational commentary, not medical advice. Source screenshots and figures are used for attributed research discussion. Synthetic voice disclosure: narration generated with edge-tts en-US-AndrewNeural and post-processed for clarity.</description>
+      <ns0:title>Healthcare AI Daily: Radiologists Do Not Fully Trust AI for Intracranial Hemorrhage Detection</ns0:title>
+      <ns0:summary>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
+GitHub: https://github.com/rtmalikian
+LinkedIn: http://www.linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a
+
+---
+
+Healthcare AI Daily translates one recent peer-reviewed healthcare AI article into a short practical briefing. Today: a cross-sectional survey reveals that radiologists using an FDA-cleared AI tool for intracranial hemorrhage detection report conditional trust, substantial false-positive burden, and limited workflow savings — with neuroradiologists especially critical.
+
+Source article
+Title: Radiologist Perceptions of an AI Tool for Intracranial Hemorrhage Detection in Teleradiology: Cross-Sectional Survey Study
+Authors: Andrew J Del Gaizo, Jackson K Del Gaizo, Troy A Shahoumian
+Journal: JMIR Human Factors
+Published: 2 June 2026
+DOI: https://doi.org/10.2196/92145
+Article: https://humanfactors.jmir.org/2026/1/e92145
+PDF: https://www.jmir.org/2026/1/e92145/PDF
+PubMed PMID: 42228936
+
+Key reported results: 65 radiologists surveyed; only 18.5% found false-positive alerts acceptable; 50.8% trust AI when it agrees vs 3.1% when it conflicts; 32.3% agreed AI correctly identifies most ICH cases; 33.8% said FP review time outweighs benefits (primary endpoint); only 10.8% reported reduced interpretation time; neuroradiologists more critical (52.2% vs 23.8%); 32.3% worried about legal vulnerability when overriding AI.
+
+This video is educational commentary, not medical advice. Source screenshots and figures are used for attributed research discussion. Synthetic voice disclosure: narration generated with edge-tts en-US-AndrewNeural and post-processed for clarity.</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>3</ns0:episode>
+      <ns0:duration>3:16</ns0:duration>
+      <ns0:image href="https://rtmalikian.github.io/haw-podcast/daily/artwork/had_2026-06-03-radiologist-perceptions_healthcare_ai_daily_2026-06-03_radiologist_perceptions.jpg"/>
+    </item>
+    <item>
+      <title>Healthcare AI Daily: Reasoning LLMs Can Still Stereotype Disease Cases</title>
+      <guid isPermaLink="false">urn:episode:daily:had_2026-06-02-llm-stereotypes_healthcare_ai_daily_2026-06-02_llm_stereotypes</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-02-llm-stereotypes_healthcare_ai_daily_2026-06-02_llm_stereotypes.mp3" length="2598969" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Jun 2026 01:06:20 GMT</pubDate>
+      <link>https://rtmalikian.github.io/haw-podcast/daily/</link>
+      <description>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
+GitHub: https://github.com/rtmalikian
+LinkedIn: http://www.linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a
+
+---
+
+Healthcare AI Daily translates one recent peer-reviewed healthcare AI article into a short practical briefing. Today: why newer reasoning large language models can still generate stereotyped medical vignettes — and why healthcare teams should monitor representational bias before using synthetic cases in education, evaluation, or workflow design.
+
+Source article
+Title: Evaluating the Potential of Reasoning Large Language Models to Perpetuate Racial and Gender Disease Stereotypes in Health Care
+Authors: Joshua J Docking, Lee X Li, Bradley D Menz, Stephen Bacchi, Ashley M Hopkins, Michael J Sorich
+Journal: Journal of Medical Internet Research
+Published: 28 May 2026
+DOI: https://doi.org/10.2196/82256
+Article: https://www.jmir.org/2026/1/e82256
+PDF: https://www.jmir.org/2026/1/e82256/PDF
+PubMed PMID: 42208042; PMCID: PMC13218561
+
+Key reported results: 36,000 generated clinical vignettes; o3-mini had over 20% racial misrepresentation in 14/18 conditions; DeepSeek-R1 in 16/18; gender misrepresentation crossed the threshold in 10/18 and 12/18 conditions respectively; 16/20 sampled DeepSeek-R1 reasoning traces invoked disease-demographic associations.
+
+This video is educational commentary, not medical advice. Source screenshots and figures are used for attributed research discussion. Synthetic voice disclosure: narration generated with edge-tts en-US-AndrewNeural and post-processed for clarity.</description>
+      <ns0:title>Healthcare AI Daily: Reasoning LLMs Can Still Stereotype Disease Cases</ns0:title>
+      <ns0:summary>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
+GitHub: https://github.com/rtmalikian
+LinkedIn: http://www.linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a
+
+---
+
+Healthcare AI Daily translates one recent peer-reviewed healthcare AI article into a short practical briefing. Today: why newer reasoning large language models can still generate stereotyped medical vignettes — and why healthcare teams should monitor representational bias before using synthetic cases in education, evaluation, or workflow design.
+
+Source article
+Title: Evaluating the Potential of Reasoning Large Language Models to Perpetuate Racial and Gender Disease Stereotypes in Health Care
+Authors: Joshua J Docking, Lee X Li, Bradley D Menz, Stephen Bacchi, Ashley M Hopkins, Michael J Sorich
+Journal: Journal of Medical Internet Research
+Published: 28 May 2026
+DOI: https://doi.org/10.2196/82256
+Article: https://www.jmir.org/2026/1/e82256
+PDF: https://www.jmir.org/2026/1/e82256/PDF
+PubMed PMID: 42208042; PMCID: PMC13218561
+
+Key reported results: 36,000 generated clinical vignettes; o3-mini had over 20% racial misrepresentation in 14/18 conditions; DeepSeek-R1 in 16/18; gender misrepresentation crossed the threshold in 10/18 and 12/18 conditions respectively; 16/20 sampled DeepSeek-R1 reasoning traces invoked disease-demographic associations.
+
+This video is educational commentary, not medical advice. Source screenshots and figures are used for attributed research discussion. Synthetic voice disclosure: narration generated with edge-tts en-US-AndrewNeural and post-processed for clarity.</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>2</ns0:episode>
+      <ns0:duration>1:48</ns0:duration>
+      <ns0:image href="https://rtmalikian.github.io/haw-podcast/daily/artwork/had_2026-06-02-llm-stereotypes_healthcare_ai_daily_2026-06-02_llm_stereotypes.jpg"/>
+    </item>
+    <item>
+      <title>Healthcare AI Daily: Dataset Bias Audits for Medical AI</title>
+      <guid isPermaLink="false">urn:episode:daily:had_2026-06-01-dataset-bias_healthcare_ai_daily_2026-06-01_dataset_bias_audit</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-01-dataset-bias_healthcare_ai_daily_2026-06-01_dataset_bias_audit.mp3" length="2430931" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Jun 2026 01:06:20 GMT</pubDate>
+      <link>https://rtmalikian.github.io/haw-podcast/daily/</link>
+      <description>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
+GitHub: https://github.com/rtmalikian
+LinkedIn: http://www.linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a
+
+---
+
+Healthcare AI Daily translates one healthcare AI paper into a short practical briefing for builders, clinicians, researchers, and governance teams. Today: why medical AI models can look accurate while learning the wrong shortcut — and how dataset bias audits can help teams find risks before deployment.
+
+Source article
+Title: Detecting dataset bias in medical AI using a generalized and modality agnostic auditing approach
+Authors: Nathan Drenkow, Mitchell Pavlak, Keith Harrigian, Ayah Zirikly, Adarsh Subbaswamy, Mohammad Mehdi Farhangi, Nicholas Petrick, Mathias Unberath
+Journal: npj Digital Medicine
+Published: 29 May 2026
+DOI: https://doi.org/10.1038/s41746-026-02807-y
+Article: https://www.nature.com/articles/s41746-026-02807-y
+Publisher supplementary PDF: https://static-content.springer.com/esm/art%3A10.1038%2Fs41746-026-02807-y/MediaObjects/41746_2026_2807_MOESM1_ESM.pdf
+
+Keywords: healthcare AI, medical AI, dataset bias, shortcut learning, AI governance, model validation, clinical artificial intelligence, machine learning bias, G-AUDIT, npj Digital Medicine, FDA, external validation, subgroup analysis, drift monitoring.
+
+This video is educational commentary, not medical advice. Source screenshots and supplementary figures are used for attributed research discussion.
+
+Like, subscribe, and enable notifications for daily Healthcare AI episodes. Healthcare AI Weekly releases every Friday at 9 AM.</description>
+      <ns0:title>Healthcare AI Daily: Dataset Bias Audits for Medical AI</ns0:title>
+      <ns0:summary>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
+GitHub: https://github.com/rtmalikian
+LinkedIn: http://www.linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a
+
+---
+
+Healthcare AI Daily translates one healthcare AI paper into a short practical briefing for builders, clinicians, researchers, and governance teams. Today: why medical AI models can look accurate while learning the wrong shortcut — and how dataset bias audits can help teams find risks before deployment.
+
+Source article
+Title: Detecting dataset bias in medical AI using a generalized and modality agnostic auditing approach
+Authors: Nathan Drenkow, Mitchell Pavlak, Keith Harrigian, Ayah Zirikly, Adarsh Subbaswamy, Mohammad Mehdi Farhangi, Nicholas Petrick, Mathias Unberath
+Journal: npj Digital Medicine
+Published: 29 May 2026
+DOI: https://doi.org/10.1038/s41746-026-02807-y
+Article: https://www.nature.com/articles/s41746-026-02807-y
+Publisher supplementary PDF: https://static-content.springer.com/esm/art%3A10.1038%2Fs41746-026-02807-y/MediaObjects/41746_2026_2807_MOESM1_ESM.pdf
+
+Keywords: healthcare AI, medical AI, dataset bias, shortcut learning, AI governance, model validation, clinical artificial intelligence, machine learning bias, G-AUDIT, npj Digital Medicine, FDA, external validation, subgroup analysis, drift monitoring.
+
+This video is educational commentary, not medical advice. Source screenshots and supplementary figures are used for attributed research discussion.
+
+Like, subscribe, and enable notifications for daily Healthcare AI episodes. Healthcare AI Weekly releases every Friday at 9 AM.</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>1</ns0:episode>
+      <ns0:duration>1:41</ns0:duration>
+      <ns0:image href="https://rtmalikian.github.io/haw-podcast/daily/artwork/had_2026-06-01-dataset-bias_healthcare_ai_daily_2026-06-01_dataset_bias_audit.jpg"/>
+    </item>
+  </channel>
+</rss>
