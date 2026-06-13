@@ -5,36 +5,42 @@
     <link>https://www.youtube.com/@RaphaelMalikian-g4h</link>
     <description>Deep dives into the most important healthcare AI research of the week. Each episode features in-depth analysis of two newly published peer-reviewed papers — one high-impact study and one overlooked gem — at the frontier of clinical artificial intelligence.
 
-Hosted by Raphael T. Malikian, MBBS, BSc (Hons), Healthcare AI Weekly goes beyond headlines to examine methodology, clinical implications, limitations, and what these findings mean for patients, providers, and the future of medicine.
+🎙️ Healthcare AI Weekly — The #1 podcast for healthcare AI research, clinical artificial intelligence breakthroughs, and medical AI news. Daily episodes covering machine learning in healthcare, AI diagnostics, clinical decision support, digital health innovation, health informatics, and the latest peer-reviewed clinical AI research.
 
-Watch every episode on YouTube: https://www.youtube.com/@RaphaelMalikian-g4h
+Whether you're a healthcare professional, clinical researcher, AI engineer, health tech executive, medical student, or digital health innovator — Healthcare AI Weekly delivers actionable insights from the world's leading medical AI journals in under 3 minutes.
 
-Created by Raphael T. Malikian (rtmalikian@gmail.com).
+Topics include: large language models in medicine, computer vision in pathology, federated learning for patient privacy, AI-powered diagnostics, clinical NLP, radiology AI, drug discovery AI, ambient clinical intelligence, and healthcare workflow automation.
+
+Created by Raphael T. Malikian, MBBS, BSc (Hons) — a clinician and AI researcher bridging the gap between cutting-edge AI research and real-world clinical impact.
 
 In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research. All research content is based on peer-reviewed publications.
 
-For comments, questions, or concerns, email: rtmalikian@gmail.com
+For comments, questions, or concerns: rtmalikian@gmail.com
+YouTube: https://www.youtube.com/@RaphaelMalikian-g4h
 
-Published weekly. Subscribe wherever you listen to podcasts.</description>
+Subscribe wherever you listen to podcasts — Apple Podcasts, Spotify, Amazon Music, Google Podcasts, and more.</description>
     <language>en</language>
-    <copyright>© 2026 Raphael T. Malikian</copyright>
+    <copyright>© 2026 Healthcare AI Weekly | Created by Raphael T. Malikian</copyright>
     <lastBuildDate>Sat, 13 Jun 2026 02:20:02 GMT</lastBuildDate>
     <generator>HAW Podcast Builder v1.0</generator>
     <atom:link href="https://rtmalikian.github.io/haw-podcast/weekly/feed.xml" rel="self" type="application/rss+xml"/>
-    <ns0:author>Raphael T. Malikian</ns0:author>
+    <ns0:author>Healthcare AI Weekly</ns0:author>
     <ns0:summary>Deep dives into the most important healthcare AI research of the week. Each episode features in-depth analysis of two newly published peer-reviewed papers — one high-impact study and one overlooked gem — at the frontier of clinical artificial intelligence.
 
-Hosted by Raphael T. Malikian, MBBS, BSc (Hons), Healthcare AI Weekly goes beyond headlines to examine methodology, clinical implications, limitations, and what these findings mean for patients, providers, and the future of medicine.
+🎙️ Healthcare AI Weekly — The #1 podcast for healthcare AI research, clinical artificial intelligence breakthroughs, and medical AI news. Daily episodes covering machine learning in healthcare, AI diagnostics, clinical decision support, digital health innovation, health informatics, and the latest peer-reviewed clinical AI research.
 
-Watch every episode on YouTube: https://www.youtube.com/@RaphaelMalikian-g4h
+Whether you're a healthcare professional, clinical researcher, AI engineer, health tech executive, medical student, or digital health innovator — Healthcare AI Weekly delivers actionable insights from the world's leading medical AI journals in under 3 minutes.
 
-Created by Raphael T. Malikian (rtmalikian@gmail.com).
+Topics include: large language models in medicine, computer vision in pathology, federated learning for patient privacy, AI-powered diagnostics, clinical NLP, radiology AI, drug discovery AI, ambient clinical intelligence, and healthcare workflow automation.
+
+Created by Raphael T. Malikian, MBBS, BSc (Hons) — a clinician and AI researcher bridging the gap between cutting-edge AI research and real-world clinical impact.
 
 In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research. All research content is based on peer-reviewed publications.
 
-For comments, questions, or concerns, email: rtmalikian@gmail.com
+For comments, questions, or concerns: rtmalikian@gmail.com
+YouTube: https://www.youtube.com/@RaphaelMalikian-g4h
 
-Published weekly. Subscribe wherever you listen to podcasts.</ns0:summary>
+Subscribe wherever you listen to podcasts — Apple Podcasts, Spotify, Amazon Music, Google Podcasts, and more.</ns0:summary>
     <ns0:explicit>no</ns0:explicit>
     <ns0:type>episodic</ns0:type>
     <ns0:owner>
@@ -81,7 +87,9 @@ Watch this episode on YouTube: https://youtu.be/Sv_W4LZsfAI
 
 YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
 
-Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.
+
+#HealthcareAI #ClinicalAI #MedicalAI #AIinMedicine #DigitalHealth #MachineLearning #HealthTech #AIResearch #ClinicalDecisionSupport #HealthcareInnovation</description>
       <link>https://youtu.be/Sv_W4LZsfAI</link>
       <ns0:title>Healthcare AI Weekly: AI Triage Meets Governance | Healthcare AI Weekly</ns0:title>
       <ns0:summary>I’m Raphael Malikian, a healthcare AI builder with 20+ years of domain experience, from family medicine practice to bootstrapping a direct primary care startup. This channel documents my healthcare-AI pivot: building in public, sharing insights on clinical workflows, digital health, LLM evaluation, automation, research ops, and turning real projects into a practical portfolio.

@@ -5,36 +5,42 @@
     <link>https://www.youtube.com/@RaphaelMalikian-g4h</link>
     <description>Your daily dose of clinical AI research. Each episode breaks down the latest peer-reviewed research at the intersection of artificial intelligence and healthcare — from large language models in clinical decision support to computer vision in pathology, from federated learning for patient privacy to AI-powered diagnostics.
 
-Hosted by Raphael T. Malikian, MBBS, BSc (Hons), Healthcare AI Daily bridges the gap between cutting-edge AI research and real-world clinical impact. Whether you're a clinician, researcher, technologist, or simply curious about how AI is transforming medicine, each episode delivers clear, evidence-based insights in under 3 minutes.
+🎙️ Healthcare AI Daily — The #1 podcast for healthcare AI research, clinical artificial intelligence breakthroughs, and medical AI news. Daily episodes covering machine learning in healthcare, AI diagnostics, clinical decision support, digital health innovation, health informatics, and the latest peer-reviewed clinical AI research.
 
-Watch every episode on YouTube: https://www.youtube.com/@RaphaelMalikian-g4h
+Whether you're a healthcare professional, clinical researcher, AI engineer, health tech executive, medical student, or digital health innovator — Healthcare AI Daily delivers actionable insights from the world's leading medical AI journals in under 3 minutes.
 
-Created by Raphael T. Malikian (rtmalikian@gmail.com).
+Topics include: large language models in medicine, computer vision in pathology, federated learning for patient privacy, AI-powered diagnostics, clinical NLP, radiology AI, drug discovery AI, ambient clinical intelligence, and healthcare workflow automation.
+
+Created by Raphael T. Malikian, MBBS, BSc (Hons) — a clinician and AI researcher bridging the gap between cutting-edge AI research and real-world clinical impact.
 
 In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research. All research content is based on peer-reviewed publications.
 
-For comments, questions, or concerns, email: rtmalikian@gmail.com
+For comments, questions, or concerns: rtmalikian@gmail.com
+YouTube: https://www.youtube.com/@RaphaelMalikian-g4h
 
-New episodes every day. Subscribe wherever you listen to podcasts.</description>
+Subscribe wherever you listen to podcasts — Apple Podcasts, Spotify, Amazon Music, Google Podcasts, and more.</description>
     <language>en</language>
-    <copyright>© 2026 Raphael T. Malikian</copyright>
+    <copyright>© 2026 Healthcare AI Daily | Created by Raphael T. Malikian</copyright>
     <lastBuildDate>Sat, 13 Jun 2026 02:20:02 GMT</lastBuildDate>
     <generator>HAW Podcast Builder v1.0</generator>
     <atom:link href="https://rtmalikian.github.io/haw-podcast/daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <ns0:author>Raphael T. Malikian</ns0:author>
+    <ns0:author>Healthcare AI Daily</ns0:author>
     <ns0:summary>Your daily dose of clinical AI research. Each episode breaks down the latest peer-reviewed research at the intersection of artificial intelligence and healthcare — from large language models in clinical decision support to computer vision in pathology, from federated learning for patient privacy to AI-powered diagnostics.
 
-Hosted by Raphael T. Malikian, MBBS, BSc (Hons), Healthcare AI Daily bridges the gap between cutting-edge AI research and real-world clinical impact. Whether you're a clinician, researcher, technologist, or simply curious about how AI is transforming medicine, each episode delivers clear, evidence-based insights in under 3 minutes.
+🎙️ Healthcare AI Daily — The #1 podcast for healthcare AI research, clinical artificial intelligence breakthroughs, and medical AI news. Daily episodes covering machine learning in healthcare, AI diagnostics, clinical decision support, digital health innovation, health informatics, and the latest peer-reviewed clinical AI research.
 
-Watch every episode on YouTube: https://www.youtube.com/@RaphaelMalikian-g4h
+Whether you're a healthcare professional, clinical researcher, AI engineer, health tech executive, medical student, or digital health innovator — Healthcare AI Daily delivers actionable insights from the world's leading medical AI journals in under 3 minutes.
 
-Created by Raphael T. Malikian (rtmalikian@gmail.com).
+Topics include: large language models in medicine, computer vision in pathology, federated learning for patient privacy, AI-powered diagnostics, clinical NLP, radiology AI, drug discovery AI, ambient clinical intelligence, and healthcare workflow automation.
+
+Created by Raphael T. Malikian, MBBS, BSc (Hons) — a clinician and AI researcher bridging the gap between cutting-edge AI research and real-world clinical impact.
 
 In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research. All research content is based on peer-reviewed publications.
 
-For comments, questions, or concerns, email: rtmalikian@gmail.com
+For comments, questions, or concerns: rtmalikian@gmail.com
+YouTube: https://www.youtube.com/@RaphaelMalikian-g4h
 
-New episodes every day. Subscribe wherever you listen to podcasts.</ns0:summary>
+Subscribe wherever you listen to podcasts — Apple Podcasts, Spotify, Amazon Music, Google Podcasts, and more.</ns0:summary>
     <ns0:explicit>no</ns0:explicit>
     <ns0:type>episodic</ns0:type>
     <ns0:owner>
@@ -75,7 +81,7 @@ Like and subscribe for daily Healthcare AI episodes. New videos every day on the
 
 YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
 
-Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research. #MedicalAI #AIinMedicine #DigitalHealth</description>
       <link>https://rtmalikian.github.io/haw-podcast/daily/</link>
       <ns0:title>AI Reads Bacterial Fingerprints to Predict Antibiotic Resistance | Healthcare AI Daily</ns0:title>
       <ns0:summary>Right now, doctors wait one to three days to learn which antibiotics will work for a serious infection. A new deep learning system called ANTIBIOTIC reads mass spectrometry data hospitals already collect and predicts resistance in minutes.
@@ -135,7 +141,7 @@ Like and subscribe for daily Healthcare AI videos.
 
 YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
 
-Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research. #MedicalAI #AIinMedicine #DigitalHealth</description>
       <link>https://rtmalikian.github.io/haw-podcast/daily/</link>
       <ns0:title>When AI Makes Things Up in Medicine: What Actually Works | Healthcare AI Daily</ns0:title>
       <ns0:summary>What happens when healthcare AI hallucinates? A new systematic review of 44 studies identifies 7 strategies that actually reduce AI errors in medicine.
@@ -200,7 +206,7 @@ Watch this episode on YouTube: https://youtu.be/h4LJc_ohi74
 
 YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
 
-Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research. #ClinicalAI #MedicalAI #AIinMedicine</description>
       <link>https://youtu.be/h4LJc_ohi74</link>
       <ns0:title>Your Home Could Detect a Stroke Before It Happens | Healthcare AI Daily</ns0:title>
       <ns0:summary>Can contactless sensors in your home detect cerebrovascular disease before a stroke happens? A new study from South Korea placed IoT sensors in the homes of 1,224 older adults and trained an AI to watch for subtle changes in movement, sleep, and activity patterns.
@@ -269,7 +275,9 @@ Watch this episode on YouTube: https://youtu.be/upmsyEQqiRU
 
 YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
 
-Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.
+
+#HealthcareAI #ClinicalAI #MedicalAI #AIinMedicine #DigitalHealth #MachineLearning #HealthTech #AIResearch #ClinicalDecisionSupport #HealthcareInnovation</description>
       <link>https://youtu.be/upmsyEQqiRU</link>
       <ns0:title>Healthcare AI Daily: GPT-5, Grok 4, DeepSeek R1 on Blood Count Reports</ns0:title>
       <ns0:summary>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
@@ -333,7 +341,7 @@ Watch this episode on YouTube: https://youtu.be/t8XhHYd3GMc
 
 YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
 
-Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research. #ClinicalAI #MedicalAI #AIinMedicine</description>
       <link>https://youtu.be/t8XhHYd3GMc</link>
       <ns0:title>AI Mobile App Catches Skin Cancers in Rural Brazil | Healthcare AI Daily</ns0:title>
       <ns0:summary>In rural Brazil, there’s one dermatologist for every 17,000 people. A new AI app that works completely offline just helped health workers catch skin cancers far more accurately.
@@ -394,7 +402,7 @@ Watch this episode on YouTube: https://youtu.be/93FreFE8CAE
 
 YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
 
-Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research. #MedicalAI #DigitalHealth</description>
       <link>https://youtu.be/93FreFE8CAE</link>
       <ns0:title>Can AI Read Your ECG? Testing Vision-Language Models on Real ECGs | Healthcare AI Daily</ns0:title>
       <ns0:summary>Can ChatGPT, Gemini, or Claude actually read an electrocardiogram? A new peer-reviewed study tested six major vision-language models on 70 real clinical ECG images.
@@ -438,7 +446,9 @@ Watch this episode on YouTube: https://youtu.be/v3ZZXYl-NCU
 
 YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
 
-Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.
+
+#HealthcareAI #ClinicalAI #MedicalAI #AIinMedicine #DigitalHealth #MachineLearning #HealthTech #AIResearch #ClinicalDecisionSupport #HealthcareInnovation</description>
       <link>https://youtu.be/v3ZZXYl-NCU</link>
       <ns0:title>AI-Powered HER2 Scoring in Breast Cancer Pathology | Healthcare AI Daily</ns0:title>
       <ns0:summary>New AI approaches to HER2 scoring in breast cancer pathology slides, improving consistency and speed of this critical biomarker assessment.
@@ -465,7 +475,9 @@ Watch this episode on YouTube: https://youtu.be/Yz_0bo0OkB0
 
 YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
 
-Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.
+
+#HealthcareAI #ClinicalAI #MedicalAI #AIinMedicine #DigitalHealth #MachineLearning #HealthTech #AIResearch #ClinicalDecisionSupport #HealthcareInnovation</description>
       <link>https://youtu.be/Yz_0bo0OkB0</link>
       <ns0:title>LLM Confidence Calibration in Ultrasound Interpretation | Healthcare AI Daily</ns0:title>
       <ns0:summary>Examining how well LLMs calibrate their confidence when interpreting ultrasound images, and what this means for clinical decision support systems.
@@ -492,7 +504,9 @@ Watch this episode on YouTube: https://youtu.be/2Kga-3ofqmg
 
 YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
 
-Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.
+
+#HealthcareAI #ClinicalAI #MedicalAI #AIinMedicine #DigitalHealth #MachineLearning #HealthTech #AIResearch #ClinicalDecisionSupport #HealthcareInnovation</description>
       <link>https://youtu.be/2Kga-3ofqmg</link>
       <ns0:title>How Large Language Models Are Reshaping Professional Development | Healthcare AI Daily</ns0:title>
       <ns0:summary>Exploring how LLMs are being used in professional development across healthcare, with implications for training, continuing education, and clinical competency assessment.
@@ -539,7 +553,9 @@ Watch this episode on YouTube: https://youtu.be/YUXTP5jIqKI
 
 YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
 
-Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.
+
+#HealthcareAI #ClinicalAI #MedicalAI #AIinMedicine #DigitalHealth #MachineLearning #HealthTech #AIResearch #ClinicalDecisionSupport #HealthcareInnovation</description>
       <link>https://youtu.be/YUXTP5jIqKI</link>
       <ns0:title>Healthcare AI Daily: AI Chatbot Taught Patients About Bone Health in 5 Minutes</ns0:title>
       <ns0:summary>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
@@ -610,7 +626,9 @@ Watch this episode on YouTube: https://youtu.be/ApSNszq84oI
 
 YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
 
-Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.
+
+#HealthcareAI #ClinicalAI #MedicalAI #AIinMedicine #DigitalHealth #MachineLearning #HealthTech #AIResearch #ClinicalDecisionSupport #HealthcareInnovation</description>
       <link>https://youtu.be/ApSNszq84oI</link>
       <ns0:title>Healthcare AI Daily: Privacy-Preserving Local AI Matches Cloud Tools for Self-Harm Detection in NHS Records</ns0:title>
       <ns0:summary>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
@@ -681,7 +699,9 @@ Watch this episode on YouTube: https://youtu.be/F9HwqVZHIV0
 
 YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
 
-Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.
+
+#HealthcareAI #ClinicalAI #MedicalAI #AIinMedicine #DigitalHealth #MachineLearning #HealthTech #AIResearch #ClinicalDecisionSupport #HealthcareInnovation</description>
       <link>https://youtu.be/F9HwqVZHIV0</link>
       <ns0:title>Healthcare AI Daily: Radiologists Do Not Fully Trust AI for Intracranial Hemorrhage Detection</ns0:title>
       <ns0:summary>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
@@ -748,7 +768,9 @@ Watch this episode on YouTube: https://youtu.be/ncRiItLiCu4
 
 YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
 
-Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.
+
+#HealthcareAI #ClinicalAI #MedicalAI #AIinMedicine #DigitalHealth #MachineLearning #HealthTech #AIResearch #ClinicalDecisionSupport #HealthcareInnovation</description>
       <link>https://youtu.be/ncRiItLiCu4</link>
       <ns0:title>Healthcare AI Daily: Reasoning LLMs Can Still Stereotype Disease Cases</ns0:title>
       <ns0:summary>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
@@ -816,7 +838,9 @@ Watch this episode on YouTube: https://youtu.be/z2CWkYSwhL4
 
 YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
 
-Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.
+
+#HealthcareAI #ClinicalAI #MedicalAI #AIinMedicine #DigitalHealth #MachineLearning #HealthTech #AIResearch #ClinicalDecisionSupport #HealthcareInnovation</description>
       <link>https://youtu.be/z2CWkYSwhL4</link>
       <ns0:title>Healthcare AI Daily: Dataset Bias Audits for Medical AI</ns0:title>
       <ns0:summary>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
