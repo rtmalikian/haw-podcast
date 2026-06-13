@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Submit Healthcare AI Podcasts — One-Click Directory Submission</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0a0f1e; color: #e0e8f0; line-height: 1.6; padding: 20px; }
+        .container { max-width: 800px; margin: 0 auto; }
+        h1 { color: #00b4dc; margin-bottom: 10px; }
+        .subtitle { color: #8ca0b8; margin-bottom: 30px; }
+        .feed-box { background: rgba(0,180,220,0.1); border: 1px solid rgba(0,180,220,0.3); border-radius: 12px; padding: 20px; margin-bottom: 30px; }
+        .feed-box h3 { color: #00b4dc; margin-bottom: 10px; }
+        .feed-url { background: rgba(0,0,0,0.3); padding: 10px 15px; border-radius: 8px; font-family: monospace; font-size: 14px; color: #00e68a; word-break: break-all; margin-bottom: 10px; cursor: pointer; }
+        .feed-url:hover { background: rgba(0,230,138,0.1); }
+        .copy-btn { background: rgba(0,180,220,0.2); color: #00b4dc; border: 1px solid rgba(0,180,220,0.4); padding: 5px 15px; border-radius: 6px; cursor: pointer; font-size: 13px; }
+        .copy-btn:hover { background: rgba(0,180,220,0.4); }
+        .directory { background: rgba(15,25,50,0.8); border: 1px solid rgba(0,180,220,0.15); border-radius: 12px; padding: 20px; margin-bottom: 15px; display: flex; justify-content: space-between; align-items: center; }
+        .directory:hover { border-color: rgba(0,180,220,0.4); }
+        .dir-info h3 { color: #e0e8f0; font-size: 1.1em; }
+        .dir-info p { color: #5a7090; font-size: 0.85em; margin-top: 4px; }
+        .dir-actions { display: flex; gap: 8px; flex-shrink: 0; }
+        .submit-btn { display: inline-block; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.85em; transition: all 0.2s; }
+        .submit-btn:hover { opacity: 0.85; transform: scale(1.02); }
+        .btn-daily { background: #00b4dc; color: #fff; }
+        .btn-weekly { background: #b464dc; color: #fff; }
+        .btn-both { background: linear-gradient(135deg, #00b4dc, #b464dc); color: #fff; }
+        .priority { display: inline-block; background: rgba(255,200,0,0.2); color: #ffc800; font-size: 0.7em; padding: 2px 8px; border-radius: 4px; margin-left: 8px; }
+        .section { margin: 30px 0 15px; color: #00b4dc; font-size: 1.2em; border-bottom: 1px solid rgba(0,180,220,0.2); padding-bottom: 8px; }
+        .note { background: rgba(255,200,0,0.1); border: 1px solid rgba(255,200,0,0.3); border-radius: 8px; padding: 15px; margin: 20px 0; color: #ffc800; font-size: 0.9em; }
+        .auto-note { background: rgba(0,230,138,0.1); border: 1px solid rgba(0,230,138,0.3); border-radius: 8px; padding: 15px; margin: 20px 0; color: #00e68a; font-size: 0.9em; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎙️ Submit Podcasts to Directories</h1>
+        <p class="subtitle">Click each button to submit your RSS feed to podcast directories. You'll need to sign in or create a free account on each platform.</p>
+        
+        <div class="feed-box">
+            <h3>📡 Your RSS Feed URLs (copy these)</h3>
+            <div class="feed-url" onclick="copyToClipboard(this)" title="Click to copy">
+                https://rtmalikian.github.io/haw-podcast/daily/feed.xml
+            </div>
+            <button class="copy-btn" onclick="copyToClipboard(this.previousElementSibling)">📋 Copy Daily Feed</button>
+            
+            <div class="feed-url" onclick="copyToClipboard(this)" title="Click to copy" style="margin-top:10px">
+                https://rtmalikian.github.io/haw-podcast/weekly/feed.xml
+            </div>
+            <button class="copy-btn" onclick="copyToClipboard(this.previousElementSibling)">📋 Copy Weekly Feed</button>
+        </div>
+        
+        <div class="note">
+            ⚠️ <strong>You need to submit EACH show (Daily + Weekly) separately</strong> on most platforms. Submit the Daily feed URL first, then repeat with the Weekly feed URL.
+        </div>
+        
+        <h2 class="section">⭐ Priority 1 — Submit These First</h2>
+        
+        <div class="directory">
+            <div class="dir-info">
+                <h3>Apple Podcasts <span class="priority">MOST IMPORTANT</span></h3>
+                <p>Overcast, Castro, Downcast, and 100+ apps auto-index from Apple. Submit here first.</p>
+            </div>
+            <div class="dir-actions">
+                <a href="https://podcastsconnect.apple.com/" target="_blank" class="submit-btn btn-both">Submit →</a>
+            </div>
+        </div>
+        
+        <div class="directory">
+            <div class="dir-info">
+                <h3>Spotify for Creators <span class="priority">HIGH PRIORITY</span></h3>
+                <p>Second largest platform. Also distributes to Samsung, Alexa, and more.</p>
+            </div>
+            <div class="dir-actions">
+                <a href="https://creators.spotify.com/" target="_blank" class="submit-btn btn-both">Submit →</a>
+            </div>
+        </div>
+        
+        <div class="directory">
+            <div class="dir-info">
+                <h3>Podcast Index <span class="priority">OPEN DIRECTORY</span></h3>
+                <p>Free, open-source directory used by Podcast Addict, Podverse, Fountain, and more.</p>
+            </div>
+            <div class="dir-actions">
+                <a href="https://podcastindex.org/add" target="_blank" class="submit-btn btn-daily">Submit Daily →</a>
+                <a href="https://podcastindex.org/add" target="_blank" class="submit-btn btn-weekly">Submit Weekly →</a>
+            </div>
+        </div>
+        
+        <h2 class="section">Priority 2 — Submit Next</h2>
+        
+        <div class="directory">
+            <div class="dir-info">
+                <h3>Amazon Music / Audible</h3>
+                <p>Reaches Alexa, Fire TV, Echo devices, and Audible listeners.</p>
+            </div>
+            <div class="dir-actions">
+                <a href="https://music.amazon.com/podcasts/submit" target="_blank" class="submit-btn btn-both">Submit →</a>
+            </div>
+        </div>
+        
+        <div class="directory">
+            <div class="dir-info">
+                <h3>YouTube Music</h3>
+                <p>YouTube now supports podcast feeds. Submit via YouTube Studio.</p>
+            </div>
+            <div class="dir-actions">
+                <a href="https://studio.youtube.com/" target="_blank" class="submit-btn btn-both">Submit →</a>
+            </div>
+        </div>
+        
+        <div class="directory">
+            <div class="dir-info">
+                <h3>iHeartRadio</h3>
+                <p>Major US radio platform with podcast support.</p>
+            </div>
+            <div class="dir-actions">
+                <a href="https://www.iheart.com/podcast-submit/" target="_blank" class="submit-btn btn-both">Submit →</a>
+            </div>
+        </div>
+        
+        <div class="directory">
+            <div class="dir-info">
+                <h3>Pocket Casts</h3>
+                <p>Popular podcast app with curated discovery.</p>
+            </div>
+            <div class="dir-actions">
+                <a href="https://pocketcasts.com/submit" target="_blank" class="submit-btn btn-daily">Submit Daily →</a>
+                <a href="https://pocketcasts.com/submit" target="_blank" class="submit-btn btn-weekly">Submit Weekly →</a>
+            </div>
+        </div>
+        
+        <h2 class="section">Priority 3 — Additional Reach</h2>
+        
+        <div class="directory">
+            <div class="dir-info">
+                <h3>Podchaser</h3>
+                <p>Podcast discovery and reviews platform. Claim your podcast.</p>
+            </div>
+            <div class="dir-actions">
+                <a href="https://www.podchaser.com/creators" target="_blank" class="submit-btn btn-both">Claim →</a>
+            </div>
+        </div>
+        
+        <div class="directory">
+            <div class="dir-info">
+                <h3>Goodpods</h3>
+                <p>Social podcast discovery platform.</p>
+            </div>
+            <div class="dir-actions">
+                <a href="https://goodpods.com/submit-podcast" target="_blank" class="submit-btn btn-both">Submit →</a>
+            </div>
+        </div>
+        
+        <div class="directory">
+            <div class="dir-info">
+                <h3>Podyssey</h3>
+                <p>Social podcast app with community features.</p>
+            </div>
+            <div class="dir-actions">
+                <a href="https://podyssey.fm/submit" target="_blank" class="submit-btn btn-both">Submit →</a>
+            </div>
+        </div>
+        
+        <div class="auto-note">
+            ✅ <strong>Auto-indexed from Apple Podcasts</strong> (no separate submission needed): Overcast, Castro, Downcast, Podcast Republic, Breaker, Laughable, Podfriend, and 100+ other apps. Once Apple approves your podcast, these pick it up automatically.
+        </div>
+        
+        <div class="note">
+            📝 <strong>After submission:</strong> Apple typically approves within 24-48 hours. Spotify is usually instant. Once approved, your podcast will appear on the respective platform and all downstream apps.
+        </div>
+    </div>
+    
+    <script>
+    function copyToClipboard(el) {
+        const text = el.textContent.trim();
+        navigator.clipboard.writeText(text).then(() => {
+            const original = el.style.background;
+            el.style.background = 'rgba(0,230,138,0.3)';
+            setTimeout(() => el.style.background = original, 1000);
+        });
+    }
+    </script>
+</body>
+</html>
