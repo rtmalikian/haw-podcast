@@ -2,21 +2,25 @@
 <rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <title>Healthcare AI Weekly</title>
-    <link>https://rtmalikian.github.io/haw-podcast/weekly/</link>
+    <link>https://www.youtube.com/@RaphaelMalikian-g4h</link>
     <description>Deep dives into the most important healthcare AI research of the week. Each episode features in-depth analysis of two newly published peer-reviewed papers — one high-impact study and one overlooked gem — at the frontier of clinical artificial intelligence.
 
 Hosted by Raphael T. Malikian, MBBS, BSc (Hons), Healthcare AI Weekly goes beyond headlines to examine methodology, clinical implications, limitations, and what these findings mean for patients, providers, and the future of medicine.
 
+Watch every episode on YouTube: https://www.youtube.com/@RaphaelMalikian-g4h
+
 Published weekly. Subscribe wherever you listen to podcasts.</description>
     <language>en</language>
     <copyright>© 2026 Raphael T. Malikian</copyright>
-    <lastBuildDate>Sat, 13 Jun 2026 01:06:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 01:37:42 GMT</lastBuildDate>
     <generator>HAW Podcast Builder v1.0</generator>
     <atom:link href="https://rtmalikian.github.io/haw-podcast/weekly/feed.xml" rel="self" type="application/rss+xml"/>
     <ns0:author>Raphael T. Malikian</ns0:author>
     <ns0:summary>Deep dives into the most important healthcare AI research of the week. Each episode features in-depth analysis of two newly published peer-reviewed papers — one high-impact study and one overlooked gem — at the frontier of clinical artificial intelligence.
 
 Hosted by Raphael T. Malikian, MBBS, BSc (Hons), Healthcare AI Weekly goes beyond headlines to examine methodology, clinical implications, limitations, and what these findings mean for patients, providers, and the future of medicine.
+
+Watch every episode on YouTube: https://www.youtube.com/@RaphaelMalikian-g4h
 
 Published weekly. Subscribe wherever you listen to podcasts.</ns0:summary>
     <ns0:explicit>no</ns0:explicit>
@@ -35,8 +39,7 @@ Published weekly. Subscribe wherever you listen to podcasts.</ns0:summary>
       <title>Healthcare AI Weekly: AI Triage Meets Governance | Healthcare AI Weekly</title>
       <guid isPermaLink="false">urn:episode:weekly:haw_2026-05-29-production_healthcare_ai_weekly_2026-05-29_production</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/weekly/audio/haw_2026-05-29-production_healthcare_ai_weekly_2026-05-29_production.mp3" length="5961241" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Jun 2026 01:06:20 GMT</pubDate>
-      <link>https://rtmalikian.github.io/haw-podcast/weekly/</link>
+      <pubDate>Sat, 13 Jun 2026 01:37:42 GMT</pubDate>
       <description>I’m Raphael Malikian, a healthcare AI builder with 20+ years of domain experience, from family medicine practice to bootstrapping a direct primary care startup. This channel documents my healthcare-AI pivot: building in public, sharing insights on clinical workflows, digital health, LLM evaluation, automation, research ops, and turning real projects into a practical portfolio.
 
 Every week I release Healthcare AI Weekly which is a journal club discussing an important peer-reviewed healthcare AI article, and one you might have missed. 
@@ -60,7 +63,12 @@ This week in Healthcare AI Weekly: a source-grounded look at two new peer-review
 
 Comment question: which layer matters most for healthcare AI right now — model performance, workflow fit, or governance?
 
-Synthetic voice disclosure: narration uses edge-tts en-US-AndrewNeural synthetic voice for review production.</description>
+Synthetic voice disclosure: narration uses edge-tts en-US-AndrewNeural synthetic voice for review production.
+
+Watch this episode on YouTube: https://youtu.be/Sv_W4LZsfAI
+
+YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h</description>
+      <link>https://youtu.be/Sv_W4LZsfAI</link>
       <ns0:title>Healthcare AI Weekly: AI Triage Meets Governance | Healthcare AI Weekly</ns0:title>
       <ns0:summary>I’m Raphael Malikian, a healthcare AI builder with 20+ years of domain experience, from family medicine practice to bootstrapping a direct primary care startup. This channel documents my healthcare-AI pivot: building in public, sharing insights on clinical workflows, digital health, LLM evaluation, automation, research ops, and turning real projects into a practical portfolio.
 
@@ -85,7 +93,11 @@ This week in Healthcare AI Weekly: a source-grounded look at two new peer-review
 
 Comment question: which layer matters most for healthcare AI right now — model performance, workflow fit, or governance?
 
-Synthetic voice disclosure: narration uses edge-tts en-US-AndrewNeural synthetic voice for review production.</ns0:summary>
+Synthetic voice disclosure: narration uses edge-tts en-US-AndrewNeural synthetic voice for review production.
+
+Watch this episode on YouTube: https://youtu.be/Sv_W4LZsfAI
+
+YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h</ns0:summary>
       <ns0:explicit>no</ns0:explicit>
       <ns0:episodeType>full</ns0:episodeType>
       <ns0:episode>1</ns0:episode>
