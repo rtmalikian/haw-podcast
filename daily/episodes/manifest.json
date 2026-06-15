@@ -376,5 +376,42 @@
       "microbiology AI"
     ],
     "original_video": "/Users/raphael/Documents/healthcare_ai_daily_2026-06-14_antibiotic_resistance_ai/video/full/healthcare_ai_daily_2026-06-14_antibiotic_resistance_ai_full_4k.mp4"
+  },
+  {
+    "episode_num": 15,
+    "date": "2026-06-15",
+    "slug": "mental_health_llm_assessment",
+    "title": "AI That Reasons Like a Clinician for Mental Health | Mental-R1",
+    "description": "Mental-R1: Can we teach AI to reason like a clinician for mental health assessment?\n\nResearchers at Oxford developed CRPO (Cognitive Relative Policy Optimization), a reinforcement learning framework that aligns LLM reasoning with human cognitive processes for mental health assessment. Mental-R1 outperforms GPT-5, DeepSeek-R1, and domain-specific models across 8 mental health datasets covering depression, anxiety, suicide risk, stress, and loneliness.\n\nKey findings:\n- 80.8% accuracy on depression severity classification\n- 10.4 percentage point average improvement in weighted F1-score\n- Human-like reasoning pattern: broad exploration followed by confident decisions\n- Outperforms GPT-5, DeepSeek-R1, GPT-4o, and all domain-specific models\n\nPaper: arxiv.org/abs/2606.13176\nAuthors: Xin Wang, Boyan Gao, Yibo Yang, David A. Clifton\n\n#HealthcareAI #MentalHealth #ClinicalAI #MachineLearning #ReinforcementLearning #DigitalHealth #AIResearch #LargeLanguageModels #MentalHealthAI #AIinMedicine #HealthTech\n\nMEDICAL DISCLAIMER: This podcast is for educational and informational purposes only. It is not intended to diagnose, treat, cure, or prevent any medical condition, and should not be relied upon as medical advice. The content discussed reflects published research and does not constitute clinical recommendations. If you have any health concerns or medical questions, please consult a licensed healthcare professional immediately.\n\nIn true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.\n\nCreated by Raphael T. Malikian, MBBS, BSc (Hons)\nFor comments, questions, or concerns: rtmalikian@gmail.com\n\nYouTube: https://www.youtube.com/@RaphaelMalikian-g4h",
+    "audio_file": "/Users/raphael/Documents/haw_podcast/daily/audio/had_2026-06-15_mental_health_llm_assessment.mp3",
+    "duration_seconds": 113.499138,
+    "file_size_bytes": 2725626,
+    "youtube_tags": [
+      "healthcare AI",
+      "mental health AI",
+      "clinical AI",
+      "machine learning",
+      "reinforcement learning",
+      "digital health",
+      "AI research",
+      "large language models",
+      "mental health assessment",
+      "depression detection",
+      "suicide prevention",
+      "cognitive behavioral therapy",
+      "AI safety",
+      "clinical decision support",
+      "health informatics",
+      "Oxford AI",
+      "arXiv",
+      "healthcare innovation",
+      "patient safety",
+      "AI in medicine",
+      "health tech",
+      "LLM reasoning",
+      "GRPO",
+      "cognitive alignment"
+    ],
+    "original_video": "/Users/raphael/Documents/healthcare_ai_daily_2026-06-15_mental_health_llm_assessment/video/full/healthcare_ai_daily_2026-06-15_mental_health_llm_assessment_4k.mp4"
   }
 ]
