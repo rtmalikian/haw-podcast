@@ -85,12 +85,12 @@
   },
   {
     "episode_num": 5,
-    "date": "2026-06-18",
-    "slug": "healthcare_ai_weekly_2026-06-04",
-    "title": "Healthcare AI Weekly: Blood Test for Kidney Cancer + AI Detects Delirium | June 4",
-    "description": "Weekly healthcare AI deep dive from 2026-06-18.",
-    "audio_file": "/Users/raphael/Documents/haw_podcast/weekly/audio/haw_2026-06-18.mp3",
-    "duration_seconds": 838.474671,
-    "file_size_bytes": 20125079
+    "date": "2026-06-20",
+    "slug": "healthcare_ai_weekly_2026-06-20_uncertainty_clinical_ai",
+    "title": "Healthcare AI Weekly: Uncertainty in Clinical AI: When Models Lose What Matters Most",
+    "description": "Two papers reveal a critical blind spot in clinical AI: uncertainty handling. LLMs preserve uncertainty less than 50% of the time, and UE safety nets fail where models are weakest.",
+    "audio_file": "weekly/audio/haw_2026-06-20.mp3",
+    "duration_seconds": 316.139683,
+    "file_size_bytes": 7589419
   }
 ]
