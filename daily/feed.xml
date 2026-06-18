@@ -18,7 +18,7 @@ For comments, questions, or concerns, email: rtmalikian@gmail.com
 New episodes every day. Subscribe wherever you listen to podcasts.</description>
     <language>en</language>
     <copyright>© 2026 Raphael T. Malikian</copyright>
-    <lastBuildDate>Mon, 15 Jun 2026 10:00:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 11:22:19 GMT</lastBuildDate>
     <generator>HAW Podcast Builder v1.0</generator>
     <atom:link href="https://rtmalikian.github.io/haw-podcast/daily/feed.xml" rel="self" type="application/rss+xml"/>
     <ns0:author>Raphael T. Malikian</ns0:author>
@@ -47,6 +47,246 @@ New episodes every day. Subscribe wherever you listen to podcasts.</ns0:summary>
     </ns0:category>
     <ns1:locked>no</ns1:locked>
     <ns1:guid>urn:podcast:haw-daily</ns1:guid>
+    <item>
+      <title>AI That Explains Its Emergency Surgery Recommendation | Healthcare AI Daily</title>
+      <guid isPermaLink="false">urn:episode:daily:had_2026-06-21_testicular_torsion_xai</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-21_testicular_torsion_xai.mp3" length="3213483" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Testicular torsion is a surgical emergency where every minute counts. The wrong decision means losing the testicle.
+
+Cift A et al. - World Journal of Urology (2026)
+DOI: 10.1007/s00345-026-06448-4
+
+A hybrid ML system with explainable AI predicts who needs surgical removal. Deployed as a web-based tool that shows exactly which clinical factors drive the recommendation.
+
+Like and subscribe for daily Healthcare AI research translations.
+
+#HealthcareAI #EmergencyMedicine #ExplainableAI #SurgicalAI
+
+YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+      <link>https://rtmalikian.github.io/haw-podcast/daily/</link>
+      <ns0:title>AI That Explains Its Emergency Surgery Recommendation | Healthcare AI Daily</ns0:title>
+      <ns0:summary>Testicular torsion is a surgical emergency where every minute counts. The wrong decision means losing the testicle.
+
+Cift A et al. - World Journal of Urology (2026)
+DOI: 10.1007/s00345-026-06448-4
+
+A hybrid ML system with explainable AI predicts who needs surgical removal. Deployed as a web-based tool that shows exactly which clinical factors drive the recommendation.
+
+Like and subscribe for daily Healthcare AI research translations.
+
+#HealthcareAI #EmergencyMedicine #ExplainableAI #SurgicalAI
+
+YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>21</ns0:episode>
+      <ns0:duration>2:13</ns0:duration>
+    </item>
+    <item>
+      <title>RL Learns When to Be Clinical and When to Chill | Healthcare AI Daily</title>
+      <guid isPermaLink="false">urn:episode:daily:had_2026-06-20_rl_mental_health</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-20_rl_mental_health.mp3" length="3234793" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Mental health apps are either clinical tools or wellness apps. Nobody has figured out how to blend the two intelligently.
+
+Wang T and Yang Q - arXiv (ACM IH 2026 Workshop)
+arXiv:2606.06800
+
+Reinforcement learning personalizes intervention intensity - clinical when needed, lighter wellness content when not. Personalized prompts prevented burnout and dropout.
+
+Note: arXiv preprint accepted at ACM workshop, not yet peer-reviewed.
+
+#HealthcareAI #MentalHealth #ReinforcementLearning #DigitalHealth
+
+YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+      <link>https://rtmalikian.github.io/haw-podcast/daily/</link>
+      <ns0:title>RL Learns When to Be Clinical and When to Chill | Healthcare AI Daily</ns0:title>
+      <ns0:summary>Mental health apps are either clinical tools or wellness apps. Nobody has figured out how to blend the two intelligently.
+
+Wang T and Yang Q - arXiv (ACM IH 2026 Workshop)
+arXiv:2606.06800
+
+Reinforcement learning personalizes intervention intensity - clinical when needed, lighter wellness content when not. Personalized prompts prevented burnout and dropout.
+
+Note: arXiv preprint accepted at ACM workshop, not yet peer-reviewed.
+
+#HealthcareAI #MentalHealth #ReinforcementLearning #DigitalHealth
+
+YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>20</ns0:episode>
+      <ns0:duration>2:14</ns0:duration>
+    </item>
+    <item>
+      <title>AI Designs Drugs for Chronic Pain in Months, Not Years | Healthcare AI Daily</title>
+      <guid isPermaLink="false">urn:episode:daily:had_2026-06-19_ai_drug_conjugate</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-19_ai_drug_conjugate.mp3" length="3284955" type="audio/mpeg"/>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Developing a new drug takes over a decade and billions of dollars. For chronic pain patients, that timeline is unacceptable.
+
+Liu Y et al. - AI Med (2026)
+DOI: 10.71423/aimed.20260606
+
+An end-to-end AI pipeline designs antibody-drug conjugates from target discovery through molecular design. Deep learning compresses years of drug design into months.
+
+Like and subscribe for daily Healthcare AI research translations.
+
+#HealthcareAI #DrugDiscovery #AIinMedicine #ChronicPain
+
+YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+      <link>https://rtmalikian.github.io/haw-podcast/daily/</link>
+      <ns0:title>AI Designs Drugs for Chronic Pain in Months, Not Years | Healthcare AI Daily</ns0:title>
+      <ns0:summary>Developing a new drug takes over a decade and billions of dollars. For chronic pain patients, that timeline is unacceptable.
+
+Liu Y et al. - AI Med (2026)
+DOI: 10.71423/aimed.20260606
+
+An end-to-end AI pipeline designs antibody-drug conjugates from target discovery through molecular design. Deep learning compresses years of drug design into months.
+
+Like and subscribe for daily Healthcare AI research translations.
+
+#HealthcareAI #DrugDiscovery #AIinMedicine #ChronicPain
+
+YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>19</ns0:episode>
+      <ns0:duration>2:16</ns0:duration>
+    </item>
+    <item>
+      <title>Agentic AI Built for High-Altitude Communities Left Behind | Healthcare AI Daily</title>
+      <guid isPermaLink="false">urn:episode:daily:had_2026-06-18_agentic_ai_global_health</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-18_agentic_ai_global_health.mp3" length="3548900" type="audio/mpeg"/>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Most healthcare AI is trained on urban hospital data. High-altitude populations with unique health needs are invisible to these systems.
+
+Shi P et al. - npj Digital Medicine (2026)
+DOI: 10.1038/s41746-026-02701-7
+
+This paper pioneers agentic AI systems adapted for high-altitude populations. The agents account for how altitude changes normal physiology.
+
+Like and subscribe for daily Healthcare AI research translations.
+
+#HealthcareAI #GlobalHealth #HealthEquity #AgenticAI
+
+YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+      <link>https://rtmalikian.github.io/haw-podcast/daily/</link>
+      <ns0:title>Agentic AI Built for High-Altitude Communities Left Behind | Healthcare AI Daily</ns0:title>
+      <ns0:summary>Most healthcare AI is trained on urban hospital data. High-altitude populations with unique health needs are invisible to these systems.
+
+Shi P et al. - npj Digital Medicine (2026)
+DOI: 10.1038/s41746-026-02701-7
+
+This paper pioneers agentic AI systems adapted for high-altitude populations. The agents account for how altitude changes normal physiology.
+
+Like and subscribe for daily Healthcare AI research translations.
+
+#HealthcareAI #GlobalHealth #HealthEquity #AgenticAI
+
+YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>18</ns0:episode>
+      <ns0:duration>2:27</ns0:duration>
+    </item>
+    <item>
+      <title>LLM Reads Cancer Notes Without Patient Data Leaving the Hospital | Healthcare AI Daily</title>
+      <guid isPermaLink="false">urn:episode:daily:had_2026-06-17_llm_oncology_privacy</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-17_llm_oncology_privacy.mp3" length="3509409" type="audio/mpeg"/>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Clinical notes contain the richest patient information in any hospital - but it sits in free text that no algorithm can read at scale.
+
+Zou Y et al. - npj Precision Oncology (2026)
+DOI: 10.1038/s41698-026-01521-y
+
+A privacy-preserving LLM extracts prognostic data from head and neck oncology notes. The model runs locally - patient data never leaves the hospital.
+
+Like and subscribe for daily Healthcare AI research translations.
+
+#HealthcareAI #LLM #Oncology #PrivacyPreserving #NLP
+
+YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+      <link>https://rtmalikian.github.io/haw-podcast/daily/</link>
+      <ns0:title>LLM Reads Cancer Notes Without Patient Data Leaving the Hospital | Healthcare AI Daily</ns0:title>
+      <ns0:summary>Clinical notes contain the richest patient information in any hospital - but it sits in free text that no algorithm can read at scale.
+
+Zou Y et al. - npj Precision Oncology (2026)
+DOI: 10.1038/s41698-026-01521-y
+
+A privacy-preserving LLM extracts prognostic data from head and neck oncology notes. The model runs locally - patient data never leaves the hospital.
+
+Like and subscribe for daily Healthcare AI research translations.
+
+#HealthcareAI #LLM #Oncology #PrivacyPreserving #NLP
+
+YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>17</ns0:episode>
+      <ns0:duration>2:26</ns0:duration>
+    </item>
+    <item>
+      <title>Why Clinical AI Fails - And How Co-Design Fixes It | Healthcare AI Daily</title>
+      <guid isPermaLink="false">urn:episode:daily:had_2026-06-16_human_ai_codesign</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-16_human_ai_codesign.mp3" length="3126335" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Most clinical AI models fail in deployment. Not because the algorithms are wrong, but because clinicians were never asked how they should work.
+
+Feng J et al. - npj Digital Medicine (2026)
+DOI: 10.1038/s41746-026-02838-5
+
+This framework embeds clinician expertise directly into the AI development pipeline, producing more trustworthy and clinically meaningful predictions.
+
+Like and subscribe for daily Healthcare AI research translations.
+
+#HealthcareAI #ClinicalAI #HumanAI #DigitalHealth
+
+YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+      <link>https://rtmalikian.github.io/haw-podcast/daily/</link>
+      <ns0:title>Why Clinical AI Fails - And How Co-Design Fixes It | Healthcare AI Daily</ns0:title>
+      <ns0:summary>Most clinical AI models fail in deployment. Not because the algorithms are wrong, but because clinicians were never asked how they should work.
+
+Feng J et al. - npj Digital Medicine (2026)
+DOI: 10.1038/s41746-026-02838-5
+
+This framework embeds clinician expertise directly into the AI development pipeline, producing more trustworthy and clinically meaningful predictions.
+
+Like and subscribe for daily Healthcare AI research translations.
+
+#HealthcareAI #ClinicalAI #HumanAI #DigitalHealth
+
+YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>16</ns0:episode>
+      <ns0:duration>2:10</ns0:duration>
+    </item>
     <item>
       <title>AI That Reasons Like a Clinician for Mental Health | Mental-R1</title>
       <guid isPermaLink="false">urn:episode:daily:had_2026-06-15_mental_health_llm_assessment</guid>
@@ -118,7 +358,7 @@ Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this 
       <title>AI Reads Bacterial Fingerprints to Predict Antibiotic Resistance | Healthcare AI Daily</title>
       <guid isPermaLink="false">urn:episode:daily:had_2026-06-14-antibiotic-resistance_healthcare_ai_daily_2026-06-14_antibiotic_resistance_ai</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-14-antibiotic-resistance_healthcare_ai_daily_2026-06-14_antibiotic_resistance_ai.mp3" length="2540686" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 10:00:23 GMT</pubDate>
+      <pubDate>Thu, 18 Jun 2026 11:22:19 GMT</pubDate>
       <description>Right now, doctors wait one to three days to learn which antibiotics will work for a serious infection. A new deep learning system called ANTIBIOTIC reads mass spectrometry data hospitals already collect and predicts resistance in minutes.
 
 Antimicrobial resistance kills over a million people a year. The core problem is speed - conventional testing takes one to three days. During that window, doctors prescribe broad-spectrum antibiotics, driving more resistance.
@@ -183,7 +423,7 @@ Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this 
       <title>When AI Makes Things Up in Medicine: What Actually Works | Healthcare AI Daily</title>
       <guid isPermaLink="false">urn:episode:daily:had_2026-06-13-ai-hallucination_healthcare_ai_daily_2026-06-13_ai_hallucination_mitigation</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-13-ai-hallucination_healthcare_ai_daily_2026-06-13_ai_hallucination_mitigation.mp3" length="2710573" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 10:00:23 GMT</pubDate>
+      <pubDate>Thu, 18 Jun 2026 11:22:19 GMT</pubDate>
       <description>What happens when healthcare AI hallucinates? A new systematic review of 44 studies identifies 7 strategies that actually reduce AI errors in medicine.
 
 Sanjay Basu and Benjamin Huynh from UC San Francisco and Johns Hopkins reviewed every major approach - from retrieval-augmented generation to human-in-the-loop oversight - and found that combining strategies consistently beats any single method.
@@ -246,7 +486,7 @@ Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this 
       <title>Your Home Could Detect a Stroke Before It Happens | Healthcare AI Daily</title>
       <guid isPermaLink="false">urn:episode:daily:had_2026-06-12-cvd-home_healthcare_ai_daily_2026-06-12_cvd_home_monitoring</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-12-cvd-home_healthcare_ai_daily_2026-06-12_cvd_home_monitoring.mp3" length="3551283" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 10:00:23 GMT</pubDate>
+      <pubDate>Thu, 18 Jun 2026 11:22:19 GMT</pubDate>
       <description>Can contactless sensors in your home detect cerebrovascular disease before a stroke happens? A new study from South Korea placed IoT sensors in the homes of 1,224 older adults and trained an AI to watch for subtle changes in movement, sleep, and activity patterns.
 
 The AI identified people in the pre-stroke phase with 85% precision, and predicted who was within four weeks of diagnosis with 95% sensitivity. Evening activity patterns were the strongest signal.
@@ -317,7 +557,7 @@ Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this 
       <title>Healthcare AI Daily: GPT-5, Grok 4, DeepSeek R1 on Blood Count Reports</title>
       <guid isPermaLink="false">urn:episode:daily:had_2026-06-11-llm-cbc_healthcare_ai_daily_2026-06-11_llm_cbc_hematology</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-11-llm-cbc_healthcare_ai_daily_2026-06-11_llm_cbc_hematology.mp3" length="2777638" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 10:00:23 GMT</pubDate>
+      <pubDate>Thu, 18 Jun 2026 11:22:19 GMT</pubDate>
       <description>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
 GitHub: https://github.com/rtmalikian
 LinkedIn: http://www.linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a
@@ -384,7 +624,7 @@ Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this 
       <title>AI Mobile App Catches Skin Cancers in Rural Brazil | Healthcare AI Daily</title>
       <guid isPermaLink="false">urn:episode:daily:had_2026-06-10-skin-cancer_healthcare_ai_daily_2026-06-10_skin_cancer_triage</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-10-skin-cancer_healthcare_ai_daily_2026-06-10_skin_cancer_triage.mp3" length="2396470" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 10:00:23 GMT</pubDate>
+      <pubDate>Thu, 18 Jun 2026 11:22:19 GMT</pubDate>
       <description>In rural Brazil, there’s one dermatologist for every 17,000 people. A new AI app that works completely offline just helped health workers catch skin cancers far more accurately.
 
 Published in npj Digital Medicine (Nature), Pacheco et al. validated the tool with 131 healthcare professionals across 9 cities. Sensitivity jumped from 64% to 80% with AI assistance. In rural areas, unnecessary specialist referrals dropped 30% while cancer surgeries stayed the same.
@@ -445,7 +685,7 @@ Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this 
       <title>Can AI Read Your ECG? Testing Vision-Language Models on Real ECGs | Healthcare AI Daily</title>
       <guid isPermaLink="false">urn:episode:daily:had_2026-06-09-ecg-vlm_healthcare_ai_daily_2026-06-09_ecg_vlm_interpretation</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-09-ecg-vlm_healthcare_ai_daily_2026-06-09_ecg_vlm_interpretation.mp3" length="3753182" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 10:00:23 GMT</pubDate>
+      <pubDate>Thu, 18 Jun 2026 11:22:19 GMT</pubDate>
       <description>Can ChatGPT, Gemini, or Claude actually read an electrocardiogram? A new peer-reviewed study tested six major vision-language models on 70 real clinical ECG images.
 
 The results are a wake-up call for anyone assuming AI can replace ECG interpretation.
@@ -587,7 +827,7 @@ Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this 
       <title>Healthcare AI Daily: AI Chatbot Taught Patients About Bone Health in 5 Minutes</title>
       <guid isPermaLink="false">urn:episode:daily:had_2026-06-05-osteoporosis-chatbot_healthcare_ai_daily_2026-06-05_osteoporosis_chatbot</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-05-osteoporosis-chatbot_healthcare_ai_daily_2026-06-05_osteoporosis_chatbot.mp3" length="6453403" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 10:00:23 GMT</pubDate>
+      <pubDate>Thu, 18 Jun 2026 11:22:19 GMT</pubDate>
       <description>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
 GitHub: https://github.com/rtmalikian
 LinkedIn: http://www.linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a
@@ -654,7 +894,7 @@ Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this 
       <title>Healthcare AI Daily: Privacy-Preserving Local AI Matches Cloud Tools for Self-Harm Detection in NHS Records</title>
       <guid isPermaLink="false">urn:episode:daily:had_2026-06-04-self-harm_healthcare_ai_daily_2026-06-04_self_harm_local_llm</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-04-self-harm_healthcare_ai_daily_2026-06-04_self_harm_local_llm.mp3" length="2963878" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 10:00:23 GMT</pubDate>
+      <pubDate>Thu, 18 Jun 2026 11:22:19 GMT</pubDate>
       <description>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
 GitHub: https://github.com/rtmalikian
 LinkedIn: http://www.linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a
@@ -729,7 +969,7 @@ Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this 
       <title>Healthcare AI Daily: Radiologists Do Not Fully Trust AI for Intracranial Hemorrhage Detection</title>
       <guid isPermaLink="false">urn:episode:daily:had_2026-06-03-radiologist-perceptions_healthcare_ai_daily_2026-06-03_radiologist_perceptions</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-03-radiologist-perceptions_healthcare_ai_daily_2026-06-03_radiologist_perceptions.mp3" length="4720561" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 10:00:23 GMT</pubDate>
+      <pubDate>Thu, 18 Jun 2026 11:22:19 GMT</pubDate>
       <description>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
 GitHub: https://github.com/rtmalikian
 LinkedIn: http://www.linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a
@@ -796,7 +1036,7 @@ Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this 
       <title>Healthcare AI Daily: Reasoning LLMs Can Still Stereotype Disease Cases</title>
       <guid isPermaLink="false">urn:episode:daily:had_2026-06-02-llm-stereotypes_healthcare_ai_daily_2026-06-02_llm_stereotypes</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-02-llm-stereotypes_healthcare_ai_daily_2026-06-02_llm_stereotypes.mp3" length="2598969" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 10:00:23 GMT</pubDate>
+      <pubDate>Thu, 18 Jun 2026 11:22:19 GMT</pubDate>
       <description>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
 GitHub: https://github.com/rtmalikian
 LinkedIn: http://www.linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a
@@ -863,7 +1103,7 @@ Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this 
       <title>Healthcare AI Daily: Dataset Bias Audits for Medical AI</title>
       <guid isPermaLink="false">urn:episode:daily:had_2026-06-01-dataset-bias_healthcare_ai_daily_2026-06-01_dataset_bias_audit</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/daily/audio/had_2026-06-01-dataset-bias_healthcare_ai_daily_2026-06-01_dataset_bias_audit.mp3" length="2430931" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 10:00:23 GMT</pubDate>
+      <pubDate>Thu, 18 Jun 2026 11:22:19 GMT</pubDate>
       <description>Raphael T. Malikian, MBBS, BSc (Hons) translates healthcare AI research into practical, clinically grounded questions for builders, clinicians, researchers, and governance teams.
 GitHub: https://github.com/rtmalikian
 LinkedIn: http://www.linkedin.com/in/raphael-t-malikian-mbbs-bsc-hons-71075436a

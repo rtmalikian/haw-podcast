@@ -413,5 +413,118 @@
       "cognitive alignment"
     ],
     "original_video": "/Users/raphael/Documents/healthcare_ai_daily_2026-06-15_mental_health_llm_assessment/video/full/healthcare_ai_daily_2026-06-15_mental_health_llm_assessment_4k.mp4"
+  },
+  {
+    "episode_num": 16,
+    "date": "2026-06-16",
+    "slug": "human_ai_codesign",
+    "title": "Why Clinical AI Fails - And How Co-Design Fixes It | Healthcare AI Daily",
+    "description": "Most clinical AI models fail in deployment. Not because the algorithms are wrong, but because clinicians were never asked how they should work.\n\nFeng J et al. - npj Digital Medicine (2026)\nDOI: 10.1038/s41746-026-02838-5\n\nThis framework embeds clinician expertise directly into the AI development pipeline, producing more trustworthy and clinically meaningful predictions.\n\nLike and subscribe for daily Healthcare AI research translations.\n\n#HealthcareAI #ClinicalAI #HumanAI #DigitalHealth",
+    "audio_file": "/Users/raphael/Documents/haw_podcast/daily/audio/had_2026-06-16_human_ai_codesign.mp3",
+    "duration_seconds": 130.176009,
+    "file_size_bytes": 3126335,
+    "youtube_tags": [
+      "healthcare AI",
+      "human-AI co-design",
+      "clinical prediction",
+      "digital health",
+      "npj Digital Medicine"
+    ],
+    "original_video": "/Users/raphael/Documents/haw_batch_june2026/daily_episodes/2026-06-16_human_ai_codesign/video/HAW_DAILY_2026-06-16_human_ai_codesign_full.mp4"
+  },
+  {
+    "episode_num": 17,
+    "date": "2026-06-17",
+    "slug": "llm_oncology_privacy",
+    "title": "LLM Reads Cancer Notes Without Patient Data Leaving the Hospital | Healthcare AI Daily",
+    "description": "Clinical notes contain the richest patient information in any hospital - but it sits in free text that no algorithm can read at scale.\n\nZou Y et al. - npj Precision Oncology (2026)\nDOI: 10.1038/s41698-026-01521-y\n\nA privacy-preserving LLM extracts prognostic data from head and neck oncology notes. The model runs locally - patient data never leaves the hospital.\n\nLike and subscribe for daily Healthcare AI research translations.\n\n#HealthcareAI #LLM #Oncology #PrivacyPreserving #NLP",
+    "audio_file": "/Users/raphael/Documents/haw_podcast/daily/audio/had_2026-06-17_llm_oncology_privacy.mp3",
+    "duration_seconds": 146.144014,
+    "file_size_bytes": 3509409,
+    "youtube_tags": [
+      "healthcare AI",
+      "LLM",
+      "oncology",
+      "privacy preserving",
+      "clinical notes",
+      "NLP",
+      "npj Precision Oncology"
+    ],
+    "original_video": "/Users/raphael/Documents/haw_batch_june2026/daily_episodes/2026-06-17_llm_oncology_privacy/video/HAW_DAILY_2026-06-17_llm_oncology_privacy_full.mp4"
+  },
+  {
+    "episode_num": 18,
+    "date": "2026-06-18",
+    "slug": "agentic_ai_global_health",
+    "title": "Agentic AI Built for High-Altitude Communities Left Behind | Healthcare AI Daily",
+    "description": "Most healthcare AI is trained on urban hospital data. High-altitude populations with unique health needs are invisible to these systems.\n\nShi P et al. - npj Digital Medicine (2026)\nDOI: 10.1038/s41746-026-02701-7\n\nThis paper pioneers agentic AI systems adapted for high-altitude populations. The agents account for how altitude changes normal physiology.\n\nLike and subscribe for daily Healthcare AI research translations.\n\n#HealthcareAI #GlobalHealth #HealthEquity #AgenticAI",
+    "audio_file": "/Users/raphael/Documents/haw_podcast/daily/audio/had_2026-06-18_agentic_ai_global_health.mp3",
+    "duration_seconds": 147.786667,
+    "file_size_bytes": 3548900,
+    "youtube_tags": [
+      "healthcare AI",
+      "global health",
+      "health equity",
+      "agentic AI",
+      "high altitude",
+      "npj Digital Medicine"
+    ],
+    "original_video": "/Users/raphael/Documents/haw_batch_june2026/daily_episodes/2026-06-18_agentic_ai_global_health/video/HAW_DAILY_2026-06-18_agentic_ai_global_health_full.mp4"
+  },
+  {
+    "episode_num": 19,
+    "date": "2026-06-19",
+    "slug": "ai_drug_conjugate",
+    "title": "AI Designs Drugs for Chronic Pain in Months, Not Years | Healthcare AI Daily",
+    "description": "Developing a new drug takes over a decade and billions of dollars. For chronic pain patients, that timeline is unacceptable.\n\nLiu Y et al. - AI Med (2026)\nDOI: 10.71423/aimed.20260606\n\nAn end-to-end AI pipeline designs antibody-drug conjugates from target discovery through molecular design. Deep learning compresses years of drug design into months.\n\nLike and subscribe for daily Healthcare AI research translations.\n\n#HealthcareAI #DrugDiscovery #AIinMedicine #ChronicPain",
+    "audio_file": "/Users/raphael/Documents/haw_podcast/daily/audio/had_2026-06-19_ai_drug_conjugate.mp3",
+    "duration_seconds": 136.8,
+    "file_size_bytes": 3284955,
+    "youtube_tags": [
+      "healthcare AI",
+      "drug discovery",
+      "antibody drug conjugate",
+      "neuropathic pain",
+      "AI drug design"
+    ],
+    "original_video": "/Users/raphael/Documents/haw_batch_june2026/daily_episodes/2026-06-19_ai_drug_conjugate/video/HAW_DAILY_2026-06-19_ai_drug_conjugate_full.mp4"
+  },
+  {
+    "episode_num": 20,
+    "date": "2026-06-20",
+    "slug": "rl_mental_health",
+    "title": "RL Learns When to Be Clinical and When to Chill | Healthcare AI Daily",
+    "description": "Mental health apps are either clinical tools or wellness apps. Nobody has figured out how to blend the two intelligently.\n\nWang T and Yang Q - arXiv (ACM IH 2026 Workshop)\narXiv:2606.06800\n\nReinforcement learning personalizes intervention intensity - clinical when needed, lighter wellness content when not. Personalized prompts prevented burnout and dropout.\n\nNote: arXiv preprint accepted at ACM workshop, not yet peer-reviewed.\n\n#HealthcareAI #MentalHealth #ReinforcementLearning #DigitalHealth",
+    "audio_file": "/Users/raphael/Documents/haw_podcast/daily/audio/had_2026-06-20_rl_mental_health.mp3",
+    "duration_seconds": 134.698685,
+    "file_size_bytes": 3234793,
+    "youtube_tags": [
+      "healthcare AI",
+      "mental health",
+      "reinforcement learning",
+      "digital health",
+      "wellness",
+      "ACM"
+    ],
+    "original_video": "/Users/raphael/Documents/haw_batch_june2026/daily_episodes/2026-06-20_rl_mental_health/video/HAW_DAILY_2026-06-20_rl_mental_health_full.mp4"
+  },
+  {
+    "episode_num": 21,
+    "date": "2026-06-21",
+    "slug": "testicular_torsion_xai",
+    "title": "AI That Explains Its Emergency Surgery Recommendation | Healthcare AI Daily",
+    "description": "Testicular torsion is a surgical emergency where every minute counts. The wrong decision means losing the testicle.\n\nCift A et al. - World Journal of Urology (2026)\nDOI: 10.1007/s00345-026-06448-4\n\nA hybrid ML system with explainable AI predicts who needs surgical removal. Deployed as a web-based tool that shows exactly which clinical factors drive the recommendation.\n\nLike and subscribe for daily Healthcare AI research translations.\n\n#HealthcareAI #EmergencyMedicine #ExplainableAI #SurgicalAI",
+    "audio_file": "/Users/raphael/Documents/haw_podcast/daily/audio/had_2026-06-21_testicular_torsion_xai.mp3",
+    "duration_seconds": 133.813333,
+    "file_size_bytes": 3213483,
+    "youtube_tags": [
+      "healthcare AI",
+      "emergency medicine",
+      "explainable AI",
+      "testicular torsion",
+      "surgical AI",
+      "urology"
+    ],
+    "original_video": "/Users/raphael/Documents/haw_batch_june2026/daily_episodes/2026-06-21_testicular_torsion_xai/video/HAW_DAILY_2026-06-21_testicular_torsion_xai_full.mp4"
   }
 ]
