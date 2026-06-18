@@ -94,13 +94,14 @@
     "file_size_bytes": 20125079
   },
   {
-    "episode_num": 5,
+    "episode_num": 6,
     "date": "2026-06-20",
     "slug": "healthcare_ai_weekly_2026-06-20_uncertainty_clinical_ai",
-    "title": "Healthcare AI Weekly: Uncertainty in Clinical AI: When Models Lose What Matters Most",
-    "description": "Two papers reveal a critical blind spot in clinical AI: uncertainty handling. LLMs preserve uncertainty less than 50% of the time, and UE safety nets fail where models are weakest.",
+    "title": "Uncertainty in Clinical AI: When Models Lose What Matters Most | Healthcare AI Weekly",
+    "description": "Two papers reveal a critical blind spot in clinical AI: uncertainty handling. LLMs preserve diagnostic uncertainty less than 50% of the time, and UE safety nets fail where models are weakest. Created by Raphael T. Malikian. Contact: rtmalikian@gmail.com. #HealthcareAI #ClinicalAI #MedicalAI #AIinMedicine #DigitalHealth #PatientSafety",
     "audio_file": "weekly/audio/haw_2026-06-20.mp3",
-    "duration_seconds": 316.139683,
-    "file_size_bytes": 7589419
+    "duration_seconds": 470.273741,
+    "file_size_bytes": 11288738,
+    "youtube_video_id": "DUngo3quTt0"
   }
 ]
