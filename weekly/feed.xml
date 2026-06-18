@@ -18,7 +18,7 @@ For comments, questions, or concerns, email: rtmalikian@gmail.com
 Published weekly. Subscribe wherever you listen to podcasts.</description>
     <language>en</language>
     <copyright>© 2026 Raphael T. Malikian</copyright>
-    <lastBuildDate>Mon, 15 Jun 2026 10:00:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 11:47:07 GMT</lastBuildDate>
     <generator>HAW Podcast Builder v1.0</generator>
     <atom:link href="https://rtmalikian.github.io/haw-podcast/weekly/feed.xml" rel="self" type="application/rss+xml"/>
     <ns0:author>Raphael T. Malikian</ns0:author>
@@ -47,6 +47,32 @@ Published weekly. Subscribe wherever you listen to podcasts.</ns0:summary>
     </ns0:category>
     <ns1:locked>no</ns1:locked>
     <ns1:guid>urn:podcast:haw-weekly</ns1:guid>
+    <item>
+      <title>Healthcare AI Weekly: Blood Test for Kidney Cancer + AI Detects Delirium | June 4</title>
+      <guid isPermaLink="false">urn:episode:weekly:haw_2026-06-18</guid>
+      <enclosure url="https://rtmalikian.github.io/haw-podcast/weekly/audio/haw_2026-06-18.mp3" length="20125079" type="audio/mpeg"/>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Weekly healthcare AI deep dive from 2026-06-18.
+
+Watch this episode on YouTube: https://youtu.be/Zhi4-iANRV4
+
+YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</description>
+      <link>https://youtu.be/Zhi4-iANRV4</link>
+      <ns0:title>Healthcare AI Weekly: Blood Test for Kidney Cancer + AI Detects Delirium | June 4</ns0:title>
+      <ns0:summary>Weekly healthcare AI deep dive from 2026-06-18.
+
+Watch this episode on YouTube: https://youtu.be/Zhi4-iANRV4
+
+YouTube Channel: https://www.youtube.com/@RaphaelMalikian-g4h
+
+Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this podcast was created with AI tools including text-to-speech using Microsoft Edge TTS and Hermes Agent by Nous Research.</ns0:summary>
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:episode>5</ns0:episode>
+      <ns0:duration>13:58</ns0:duration>
+    </item>
     <item>
       <title>Healthcare AI Weekly: Skin Cancer AI + Colonoscopy Deskilling | Healthcare AI Weekly</title>
       <guid isPermaLink="false">urn:episode:weekly:haw_2026-06-11</guid>
@@ -165,7 +191,7 @@ Created by Raphael T. Malikian (rtmalikian@gmail.com). In true AI fashion, this 
       <title>Healthcare AI Weekly: AI Triage Meets Governance | Healthcare AI Weekly</title>
       <guid isPermaLink="false">urn:episode:weekly:haw_2026-05-29-production_healthcare_ai_weekly_2026-05-29_production</guid>
       <enclosure url="https://rtmalikian.github.io/haw-podcast/weekly/audio/haw_2026-05-29-production_healthcare_ai_weekly_2026-05-29_production.mp3" length="5961241" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 10:00:23 GMT</pubDate>
+      <pubDate>Thu, 18 Jun 2026 11:47:07 GMT</pubDate>
       <description>I’m Raphael Malikian, a healthcare AI builder with 20+ years of domain experience, from family medicine practice to bootstrapping a direct primary care startup. This channel documents my healthcare-AI pivot: building in public, sharing insights on clinical workflows, digital health, LLM evaluation, automation, research ops, and turning real projects into a practical portfolio.
 
 Every week I release Healthcare AI Weekly which is a journal club discussing an important peer-reviewed healthcare AI article, and one you might have missed. 

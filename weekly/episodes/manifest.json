@@ -82,5 +82,15 @@
       "Healthcare AI Weekly"
     ],
     "episode_num": 4
+  },
+  {
+    "episode_num": 5,
+    "date": "2026-06-18",
+    "slug": "healthcare_ai_weekly_2026-06-04",
+    "title": "Healthcare AI Weekly: Blood Test for Kidney Cancer + AI Detects Delirium | June 4",
+    "description": "Weekly healthcare AI deep dive from 2026-06-18.",
+    "audio_file": "/Users/raphael/Documents/haw_podcast/weekly/audio/haw_2026-06-18.mp3",
+    "duration_seconds": 838.474671,
+    "file_size_bytes": 20125079
   }
 ]
